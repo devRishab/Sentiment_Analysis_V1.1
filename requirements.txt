@@ -1,0 +1,7 @@
+streamlit
+feedparser
+pandas
+numpy
+matplotlib
+transformers
+torch
