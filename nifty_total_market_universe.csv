@@ -1,0 +1,751 @@
+Symbol,CompanyName,Ticker,MarketCap_INR,MarketCap_Cr,CapSize,Sector,Industry,FetchedOn
+RELIANCE,Reliance Industries Limited,RELIANCE.NS,17188945657856.0,1718894.57,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+HDFCBANK,HDFC Bank Limited,HDFCBANK.NS,11367802208256.0,1136780.22,Large Cap,Financial Services,Banks - Regional,2026-06-09
+BHARTIARTL,Bharti Airtel Limited,BHARTIARTL.NS,11063331389440.0,1106333.14,Large Cap,Communication Services,Telecom Services,2026-06-09
+SBIN,State Bank of India,SBIN.NS,9106003853312.0,910600.39,Large Cap,Financial Services,Banks - Regional,2026-06-09
+ICICIBANK,ICICI Bank Limited,ICICIBANK.NS,9077576957952.0,907757.7,Large Cap,Financial Services,Banks - Regional,2026-06-09
+TCS,Tata Consultancy Services Limited,TCS.NS,7775269683200.0,777526.97,Large Cap,Technology,Information Technology Services,2026-06-09
+BAJFINANCE,Bajaj Finance Limited,BAJFINANCE.NS,5471109906432.0,547110.99,Large Cap,Financial Services,Credit Services,2026-06-09
+LT,Larsen & Toubro Limited,LT.NS,5363730481152.0,536373.05,Large Cap,Industrials,Engineering & Construction,2026-06-09
+HINDUNILVR,Hindustan Unilever Limited,HINDUNILVR.NS,4990531796992.0,499053.18,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+INFY,Infosys Limited,INFY.NS,4748609060864.0,474860.91,Large Cap,Technology,Information Technology Services,2026-06-09
+ADANIPOWER,Adani Power Limited,ADANIPOWER.NS,4394789109760.0,439478.91,Large Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+SUNPHARMA,Sun Pharmaceutical Industries Limited,SUNPHARMA.NS,4302007435264.0,430200.74,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,ADANIPORTS.NS,4159106711552.0,415910.67,Large Cap,Industrials,Marine Shipping,2026-06-09
+ADANIENT,Adani Enterprises Limited,ADANIENT.NS,4086327672832.0,408632.77,Large Cap,Energy,Thermal Coal,2026-06-09
+MARUTI,Maruti Suzuki India Limited,MARUTI.NS,4057993838592.0,405799.38,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+AXISBANK,Axis Bank Limited,AXISBANK.NS,3994556301312.0,399455.63,Large Cap,Financial Services,Banks - Regional,2026-06-09
+KOTAKBANK,Kotak Mahindra Bank Limited,KOTAKBANK.NS,3786121936896.0,378612.19,Large Cap,Financial Services,Banks - Regional,2026-06-09
+TITAN,Titan Company Limited,TITAN.NS,3668286898176.0,366828.69,Large Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+M&M,Mahindra & Mahindra Limited,M&M.NS,3590879444992.0,359087.94,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+ITC,ITC Limited,ITC.NS,3498227793920.0,349822.78,Large Cap,Consumer Defensive,Tobacco,2026-06-09
+NTPC,NTPC Limited,NTPC.NS,3472861167616.0,347286.12,Large Cap,Utilities,Utilities - Regulated Electric,2026-06-09
+ONGC,Oil and Natural Gas Corporation Limited,ONGC.NS,3310500446208.0,331050.04,Large Cap,Energy,Oil & Gas Integrated,2026-06-09
+ULTRACEMCO,UltraTech Cement Limited,ULTRACEMCO.NS,3184386375680.0,318438.64,Large Cap,Basic Materials,Building Materials,2026-06-09
+HCLTECH,HCL Technologies Limited,HCLTECH.NS,3089173577728.0,308917.36,Large Cap,Technology,Information Technology Services,2026-06-09
+JSWSTEEL,JSW Steel Limited,JSWSTEEL.NS,3083984699392.0,308398.47,Large Cap,Basic Materials,Steel,2026-06-09
+BEL,Bharat Electronics Limited,BEL.NS,3017111240704.0,301711.12,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+BAJAJ-AUTO,Bajaj Auto Limited,BAJAJ-AUTO.NS,2872030527488.0,287203.05,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+HAL,Hindustan Aeronautics Limited,HAL.NS,2837746024448.0,283774.6,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+COALINDIA,Coal India Limited,COALINDIA.NS,2835163119616.0,283516.31,Large Cap,Energy,Thermal Coal,2026-06-09
+NESTLEIND,Nestlé India Limited,NESTLEIND.NS,2708317405184.0,270831.74,Large Cap,Consumer Defensive,Packaged Foods,2026-06-09
+BAJAJFINSV,Bajaj Finserv Ltd.,BAJAJFINSV.NS,2700040208384.0,270004.02,Large Cap,Financial Services,Financial Conglomerates,2026-06-09
+POWERGRID,Power Grid Corporation of India Limited,POWERGRID.NS,2685549412352.0,268554.94,Large Cap,Utilities,Utilities - Regulated Electric,2026-06-09
+DMART,Avenue Supermarts Limited,DMART.NS,2674795741184.0,267479.57,Large Cap,Consumer Defensive,Discount Stores,2026-06-09
+ASIANPAINT,Asian Paints Limited,ASIANPAINT.NS,2570508828672.0,257050.88,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+LICI,Life Insurance Corporation of India,LICI.NS,2519246569472.0,251924.66,Large Cap,Financial Services,Insurance - Life,2026-06-09
+TATASTEEL,Tata Steel Limited,TATASTEEL.NS,2506467311616.0,250646.73,Large Cap,Basic Materials,Steel,2026-06-09
+ADANIGREEN,Adani Green Energy Limited,ADANIGREEN.NS,2490695155712.0,249069.52,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+HINDALCO,Hindalco Industries Limited,HINDALCO.NS,2371887562752.0,237188.76,Large Cap,Basic Materials,Aluminum,2026-06-09
+HINDZINC,Hindustan Zinc Limited,HINDZINC.NS,2359840735232.0,235984.07,Large Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+ETERNAL,Eternal Limited,ETERNAL.NS,2274109161472.0,227410.92,Large Cap,Consumer Cyclical,Internet Retail,2026-06-09
+SHRIRAMFIN,Shriram Finance Limited,SHRIRAMFIN.NS,2132134985728.0,213213.5,Large Cap,Financial Services,Credit Services,2026-06-09
+GRASIM,Grasim Industries Limited,GRASIM.NS,2090874568704.0,209087.46,Large Cap,Basic Materials,Building Materials,2026-06-09
+EICHERMOT,Eicher Motors Limited,EICHERMOT.NS,1938089836544.0,193808.98,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+IOC,Indian Oil Corporation Limited,IOC.NS,1928961327104.0,192896.13,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+WIPRO,Wipro Limited,WIPRO.NS,1918582784000.0,191858.28,Large Cap,Technology,Information Technology Services,2026-06-09
+ADANIENSOL,Adani Energy Solutions Limited,ADANIENSOL.NS,1896705294336.0,189670.53,Large Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+DIVISLAB,Divi's Laboratories Limited,DIVISLAB.NS,1796425908224.0,179642.59,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+VBL,Varun Beverages Limited,VBL.NS,1781455388672.0,178145.54,Large Cap,Consumer Defensive,Beverages - Non-Alcoholic,2026-06-09
+SBILIFE,SBI Life Insurance Company Limited,SBILIFE.NS,1773807861760.0,177380.79,Large Cap,Financial Services,Insurance - Life,2026-06-09
+INDIGO,InterGlobe Aviation Limited,INDIGO.NS,1711655354368.0,171165.54,Large Cap,Industrials,Airlines,2026-06-09
+SOLARINDS,Solar Industries India Limited,SOLARINDS.NS,1650448138240.0,165044.81,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+BSE,BSE Limited,BSE.NS,1626912456704.0,162691.25,Large Cap,Financial Services,Financial Data & Stock Exchanges,2026-06-09
+ICICIAMC,ICICI PRUDENTIAL AMC LTD,ICICIAMC.NS,1615731097600.0,161573.11,Large Cap,Financial Services,Asset Management,2026-06-09
+TVSMOTOR,TVS Motor Company Limited,TVSMOTOR.NS,1583786491904.0,158378.65,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+IDEA,Vodafone Idea Limited,IDEA.NS,1582891663360.0,158289.17,Large Cap,Communication Services,Telecom Services,2026-06-09
+CUMMINSIND,Cummins India Limited,CUMMINSIND.NS,1563546615808.0,156354.66,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+HYUNDAI,HYUNDAI MOTOR INDIA LTD,HYUNDAI.NS,1550897250304.0,155089.73,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+JIOFIN,Jio Financial Services Limited,JIOFIN.NS,1534636195840.0,153463.62,Large Cap,Financial Services,Asset Management,2026-06-09
+POWERINDIA,Hitachi Energy India Limited,POWERINDIA.NS,1519471951872.0,151947.2,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+TORNTPHARM,Torrent Pharmaceuticals Limited,TORNTPHARM.NS,1504423837696.0,150442.38,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+PIDILITIND,Pidilite Industries Limited,PIDILITIND.NS,1499284897792.0,149928.49,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+MOTHERSON,Samvardhana Motherson International Limited,MOTHERSON.NS,1492907196416.0,149290.72,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+ABB,ABB India Limited,ABB.NS,1480391917568.0,148039.19,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+TRENT,Trent Limited,TRENT.NS,1473000767488.0,147300.08,Large Cap,Consumer Cyclical,Apparel Retail,2026-06-09
+POLYCAB,Polycab India Limited,POLYCAB.NS,1455973990400.0,145597.4,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+TMPV,Tata Motors Passenger Vehicles Limited,TMPV.NS,1440016367616.0,144001.64,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+CGPOWER,CG Power and Industrial Solutions Limited,CGPOWER.NS,1438015553536.0,143801.56,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+PFC,Power Finance Corporation Limited,PFC.NS,1437194256384.0,143719.43,Large Cap,Financial Services,Credit Services,2026-06-09
+DLF,DLF Limited,DLF.NS,1410556231680.0,141055.62,Large Cap,Real Estate,Real Estate - Development,2026-06-09
+BANKBARODA,Bank of Baroda Limited,BANKBARODA.NS,1362136793088.0,136213.68,Large Cap,Financial Services,Banks - Regional,2026-06-09
+BHEL,Bharat Heavy Electricals Limited,BHEL.NS,1349473665024.0,134947.37,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+TMCV,TATA MOTORS LIMITED,TMCV.NS,1347790962688.0,134779.1,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+TATACAP,TATA CAPITAL LIMITED,TATACAP.NS,1329734090752.0,132973.41,Large Cap,Financial Services,Credit Services,2026-06-09
+TECHM,Tech Mahindra Limited,TECHM.NS,1317506252800.0,131750.63,Large Cap,Technology,Information Technology Services,2026-06-09
+TATAPOWER,Tata Power Company Limited,TATAPOWER.NS,1281970274304.0,128197.03,Large Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+SIEMENS,Siemens Limited,SIEMENS.NS,1278579441664.0,127857.94,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+UNIONBANK,Union Bank of India,UNIONBANK.NS,1273056460800.0,127305.65,Large Cap,Financial Services,Banks - Regional,2026-06-09
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,CHOLAFIN.NS,1259993169920.0,125999.32,Large Cap,Financial Services,Credit Services,2026-06-09
+IRFC,Indian Railway Finance Corporation Limited,IRFC.NS,1253661736960.0,125366.17,Large Cap,Financial Services,Credit Services,2026-06-09
+ENRIN,Siemens Energy India Limited,ENRIN.NS,1252119674880.0,125211.97,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+GVT&D,GE Vernova T&D India Limited,GVT&D.NS,1239393239040.0,123939.32,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+HDFCLIFE,HDFC Life Insurance Company Limited,HDFCLIFE.NS,1227243388928.0,122724.34,Large Cap,Financial Services,Insurance - Life,2026-06-09
+BPCL,Bharat Petroleum Corporation Limited,BPCL.NS,1227086495744.0,122708.65,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+PNB,Punjab National Bank,PNB.NS,1226296918016.0,122629.69,Large Cap,Financial Services,Banks - Regional,2026-06-09
+BRITANNIA,Britannia Industries Limited,BRITANNIA.NS,1224213135360.0,122421.31,Large Cap,Consumer Defensive,Packaged Foods,2026-06-09
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,APOLLOHOSP.NS,1208294309888.0,120829.43,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+CANBK,Canara Bank,CANBK.NS,1207212965888.0,120721.3,Large Cap,Financial Services,Banks - Regional,2026-06-09
+VEDL,Vedanta Limited,VEDL.NS,1194674094080.0,119467.41,Large Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+MUTHOOTFIN,Muthoot Finance Limited,MUTHOOTFIN.NS,1193244622848.0,119324.46,Large Cap,Financial Services,Credit Services,2026-06-09
+JINDALSTEL,Jindal Steel Limited,JINDALSTEL.NS,1179777499136.0,117977.75,Large Cap,Basic Materials,Steel,2026-06-09
+GROWW,BILLIONBRAINS GARAGE VN L,GROWW.NS,1178071334912.0,117807.13,Large Cap,Financial Services,Capital Markets,2026-06-09
+LTM,LTM Limited,LTM.NS,1175528013824.0,117552.8,Large Cap,Technology,Information Technology Services,2026-06-09
+INDIANB,Indian Bank,INDIANB.NS,1145660243968.0,114566.02,Large Cap,Financial Services,Banks - Regional,2026-06-09
+CIPLA,Cipla Limited,CIPLA.NS,1121773944832.0,112177.39,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,BAJAJHLDNG.NS,1120280510464.0,112028.05,Large Cap,Financial Services,Asset Management,2026-06-09
+INDUSTOWER,Indus Towers Limited,INDUSTOWER.NS,1119355273216.0,111935.53,Large Cap,Communication Services,Telecom Services,2026-06-09
+ZYDUSLIFE,Zydus Lifesciences Limited,ZYDUSLIFE.NS,1107159285760.0,110715.93,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+BOSCHLTD,Bosch Limited,BOSCHLTD.NS,1096573517824.0,109657.35,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+GAIL,GAIL (India) Limited,GAIL.NS,1093106925568.0,109310.69,Large Cap,Utilities,Utilities - Regulated Gas,2026-06-09
+TATACONSUM,Tata Consumer Products Limited,TATACONSUM.NS,1091274670080.0,109127.47,Large Cap,Consumer Defensive,Packaged Foods,2026-06-09
+GMRAIRPORT,GMR Airports Limited,GMRAIRPORT.NS,1075854049280.0,107585.4,Large Cap,Industrials,Airports & Air Services,2026-06-09
+DRREDDY,Dr. Reddy's Laboratories Limited,DRREDDY.NS,1070107262976.0,107010.73,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+HDFCAMC,HDFC Asset Management Company Limited,HDFCAMC.NS,1056373014528.0,105637.3,Large Cap,Financial Services,Asset Management,2026-06-09
+JSWENERGY,JSW Energy Limited,JSWENERGY.NS,1053802758144.0,105380.28,Large Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+MARICO,Marico Limited,MARICO.NS,1043393675264.0,104339.37,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+AMBUJACEM,Ambuja Cements Limited,AMBUJACEM.NS,1034677846016.0,103467.78,Large Cap,Basic Materials,Building Materials,2026-06-09
+LUPIN,Lupin Limited,LUPIN.NS,1031516651520.0,103151.67,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+LGEINDIA,LG ELECTRONICS INDIA LTD,LGEINDIA.NS,1028340187136.0,102834.02,Large Cap,Technology,Consumer Electronics,2026-06-09
+GODREJCP,Godrej Consumer Products Limited,GODREJCP.NS,1024677183488.0,102467.72,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+MAZDOCK,Mazagon Dock Shipbuilders Limited,MAZDOCK.NS,981423554560.0,98142.36,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+MANKIND,Mankind Pharma Limited,MANKIND.NS,980907065344.0,98090.71,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+MAXHEALTH,Max Healthcare Institute Limited,MAXHEALTH.NS,970810654720.0,97081.07,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+LLOYDSME,Lloyds Metals and Energy Limited,LLOYDSME.NS,965234130944.0,96523.41,Large Cap,Basic Materials,Steel,2026-06-09
+HEROMOTOCO,Hero MotoCorp Limited,HEROMOTOCO.NS,954763509760.0,95476.35,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+INDHOTEL,The Indian Hotels Company Limited,INDHOTEL.NS,941885095936.0,94188.51,Large Cap,Consumer Cyclical,Lodging,2026-06-09
+BHARATFORG,Bharat Forge Limited,BHARATFORG.NS,923380416512.0,92338.04,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+RECLTD,REC Limited,RECLTD.NS,919258464256.0,91925.85,Large Cap,Financial Services,Credit Services,2026-06-09
+ABCAPITAL,Aditya Birla Capital Limited,ABCAPITAL.NS,910286454784.0,91028.65,Large Cap,Financial Services,Financial Conglomerates,2026-06-09
+UNITDSPR,UNITED SPIRITS LIMITED,UNITDSPR.NS,905541779456.0,90554.18,Large Cap,Consumer Defensive,Beverages - Wineries & Distilleries,2026-06-09
+ICICIGI,ICICI Lombard General Insurance Company Limited,ICICIGI.NS,897495334912.0,89749.53,Large Cap,Financial Services,Insurance - Diversified,2026-06-09
+LODHA,Lodha Developers Limited,LODHA.NS,888884625408.0,88888.46,Large Cap,Real Estate,Real Estate - Development,2026-06-09
+WAAREEENER,WAAREE ENERGIES LIMITED,WAAREEENER.NS,880471900160.0,88047.19,Large Cap,Technology,Solar,2026-06-09
+LENSKART,LENSKART SOLUTIONS LTD,LENSKART.NS,877147586560.0,87714.76,Large Cap,Healthcare,Medical Instruments & Supplies,2026-06-09
+SHREECEM,Shree Cement Limited,SHREECEM.NS,848077979648.0,84807.8,Large Cap,Basic Materials,Building Materials,2026-06-09
+NTPCGREEN,NTPC GREEN ENERGY LIMITED,NTPCGREEN.NS,844908068864.0,84490.81,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+OFSS,Oracle Financial Services Software Limited,OFSS.NS,843479187456.0,84347.92,Large Cap,Technology,Software - Infrastructure,2026-06-09
+AUROPHARMA,Aurobindo Pharma Limited,AUROPHARMA.NS,840742207488.0,84074.22,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ASHOKLEY,Ashok Leyland Limited,ASHOKLEY.NS,839256375296.0,83925.64,Large Cap,Industrials,Farm & Heavy Construction Machinery,2026-06-09
+ATGL,Adani Total Gas Limited,ATGL.NS,817983717376.0,81798.37,Large Cap,Utilities,Utilities - Regulated Gas,2026-06-09
+SRF,SRF Limited,SRF.NS,800859357184.0,80085.94,Large Cap,Industrials,Conglomerates,2026-06-09
+HINDPETRO,Hindustan Petroleum Corporation Limited,HINDPETRO.NS,800593215488.0,80059.32,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+NMDC,NMDC Limited,NMDC.NS,789065564160.0,78906.56,Large Cap,Basic Materials,Steel,2026-06-09
+PERSISTENT,Persistent Systems Limited,PERSISTENT.NS,783264317440.0,78326.43,Large Cap,Technology,Information Technology Services,2026-06-09
+IDBI,IDBI Bank Limited,IDBI.NS,780624396288.0,78062.44,Large Cap,Financial Services,Banks - Regional,2026-06-09
+OIL,Oil India Limited,OIL.NS,771662675968.0,77166.27,Large Cap,Energy,Oil & Gas Integrated,2026-06-09
+LAURUSLABS,Laurus Labs Limited,LAURUSLABS.NS,767748669440.0,76774.87,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+SAIL,Steel Authority of India Limited,SAIL.NS,767534235648.0,76753.42,Large Cap,Basic Materials,Steel,2026-06-09
+FEDERALBNK,The Federal Bank Limited,FEDERALBNK.NS,761687769088.0,76168.78,Large Cap,Financial Services,Banks - Regional,2026-06-09
+MEESHO,MEESHO LIMITED,MEESHO.NS,759823400960.0,75982.34,Large Cap,Consumer Cyclical,Internet Retail,2026-06-09
+NYKAA,FSN E-Commerce Ventures Limited,NYKAA.NS,759056564224.0,75905.66,Large Cap,Consumer Cyclical,Internet Retail,2026-06-09
+DABUR,Dabur India Limited,DABUR.NS,750714355712.0,75071.44,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+SUZLON,Suzlon Energy Limited,SUZLON.NS,750372519936.0,75037.25,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+FORTIS,Fortis Healthcare Limited,FORTIS.NS,749786693632.0,74978.67,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+NHPC,NHPC Limited,NHPC.NS,742629376000.0,74262.94,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+MCX,Multi Commodity Exchange of India Limited,MCX.NS,735952961536.0,73595.3,Large Cap,Financial Services,Financial Data & Stock Exchanges,2026-06-09
+BHARTIHEXA,BHARTI HEXACOM LIMITED,BHARTIHEXA.NS,735000002560.0,73500.0,Large Cap,Communication Services,Telecom Services,2026-06-09
+YESBANK,Yes Bank Limited,YESBANK.NS,734434820096.0,73443.48,Large Cap,Financial Services,Banks - Regional,2026-06-09
+AUBANK,AU Small Finance Bank Limited,AUBANK.NS,730884603904.0,73088.46,Large Cap,Financial Services,Banks - Regional,2026-06-09
+TORNTPOWER,Torrent Power Limited,TORNTPOWER.NS,727838294016.0,72783.83,Large Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+HAVELLS,Havells India Limited,HAVELLS.NS,721282662400.0,72128.27,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+INDUSINDBK,IndusInd Bank Limited,INDUSINDBK.NS,710452183040.0,71045.22,Large Cap,Financial Services,Banks - Regional,2026-06-09
+DIXON,Dixon Technologies (India) Limited,DIXON.NS,703781928960.0,70378.19,Large Cap,Technology,Consumer Electronics,2026-06-09
+POLICYBZR,PB Fintech Limited,POLICYBZR.NS,700779134976.0,70077.91,Large Cap,Financial Services,Insurance Brokers,2026-06-09
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,ICICIPRULI.NS,697815400448.0,69781.54,Large Cap,Financial Services,Insurance - Life,2026-06-09
+BAJAJHFL,BAJAJ HOUSING FINANCE LTD,BAJAJHFL.NS,692861403136.0,69286.14,Large Cap,Financial Services,Mortgage Finance,2026-06-09
+NATIONALUM,National Aluminium Company Limited,NATIONALUM.NS,687451275264.0,68745.13,Large Cap,Basic Materials,Aluminum,2026-06-09
+NAM-INDIA,Nippon Life India Asset Management Limited,NAM-INDIA.NS,680622817280.0,68062.28,Large Cap,Financial Services,Asset Management,2026-06-09
+GICRE,General Insurance Corporation of India,GICRE.NS,675794911232.0,67579.49,Large Cap,Financial Services,Insurance - Reinsurance,2026-06-09
+PAYTM,One97 Communications Limited,PAYTM.NS,675427516416.0,67542.75,Large Cap,Technology,Software - Infrastructure,2026-06-09
+BIOCON,Biocon Limited,BIOCON.NS,669018488832.0,66901.85,Large Cap,Healthcare,Biotechnology,2026-06-09
+LTF,L&T Finance Limited,LTF.NS,661940076544.0,66194.01,Large Cap,Financial Services,Credit Services,2026-06-09
+BANKINDIA,Bank of India Limited,BANKINDIA.NS,646524305408.0,64652.43,Large Cap,Financial Services,Banks - Regional,2026-06-09
+ALKEM,Alkem Laboratories Limited,ALKEM.NS,645770575872.0,64577.06,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+NAUKRI,Info Edge (India) Limited,NAUKRI.NS,645340790784.0,64534.08,Large Cap,Communication Services,Internet Content & Information,2026-06-09
+IDFCFIRSTB,IDFC First Bank Limited,IDFCFIRSTB.NS,639876661248.0,63987.67,Large Cap,Financial Services,Banks - Regional,2026-06-09
+SWIGGY,SWIGGY LIMITED,SWIGGY.NS,634313703424.0,63431.37,Large Cap,Consumer Cyclical,Internet Retail,2026-06-09
+IOB,Indian Overseas Bank,IOB.NS,632578965504.0,63257.9,Large Cap,Financial Services,Banks - Regional,2026-06-09
+PHOENIXLTD,The Phoenix Mills Limited,PHOENIXLTD.NS,631342759936.0,63134.28,Large Cap,Real Estate,Real Estate - Diversified,2026-06-09
+SCHAEFFLER,Schaeffler India Limited,SCHAEFFLER.NS,630528999424.0,63052.9,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+COFORGE,Coforge Limited,COFORGE.NS,629080522752.0,62908.05,Large Cap,Technology,Information Technology Services,2026-06-09
+MAHABANK,Bank of Maharashtra,MAHABANK.NS,619400921088.0,61940.09,Large Cap,Financial Services,Banks - Regional,2026-06-09
+GLENMARK,Glenmark Pharmaceuticals Limited,GLENMARK.NS,618132602880.0,61813.26,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+UNOMINDA,Uno Minda Limited,UNOMINDA.NS,614876053504.0,61487.61,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+TIINDIA,Tube Investments of India Limited,TIINDIA.NS,607011340288.0,60701.13,Large Cap,Industrials,Conglomerates,2026-06-09
+LINDEINDIA,Linde India Limited,LINDEINDIA.NS,593237049344.0,59323.7,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+OBEROIRLTY,Oberoi Realty Limited,OBEROIRLTY.NS,591908110336.0,59190.81,Large Cap,Real Estate,Real Estate - Development,2026-06-09
+PRESTIGE,Prestige Estates Projects Limited,PRESTIGE.NS,584070201344.0,58407.02,Large Cap,Real Estate,Real Estate - Diversified,2026-06-09
+BERGEPAINT,Berger Paints India Limited,BERGEPAINT.NS,579328475136.0,57932.85,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+JSWINFRA,JSW Infrastructure Limited,JSWINFRA.NS,575608848384.0,57560.88,Large Cap,Industrials,Marine Shipping,2026-06-09
+FACT,The Fertilisers and Chemicals Travancore Limited,FACT.NS,567093886976.0,56709.39,Large Cap,Basic Materials,Agricultural Inputs,2026-06-09
+TATACOMM,Tata Communications Limited,TATACOMM.NS,565155004416.0,56515.5,Large Cap,Communication Services,Telecom Services,2026-06-09
+SBICARD,SBI Cards and Payment Services Limited,SBICARD.NS,553741451264.0,55374.15,Large Cap,Financial Services,Credit Services,2026-06-09
+VMM,VISHAL MEGA MART LIMITED,VMM.NS,551064109056.0,55106.41,Large Cap,Consumer Cyclical,Department Stores,2026-06-09
+ABBOTINDIA,Abbott India Limited,ABBOTINDIA.NS,550569443328.0,55056.94,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+JSL,Jindal Stainless Limited,JSL.NS,549945344000.0,54994.53,Large Cap,Basic Materials,Steel,2026-06-09
+MFSL,Max Financial Services Limited,MFSL.NS,546320515072.0,54632.05,Large Cap,Financial Services,Insurance - Life,2026-06-09
+COLPAL,Colgate-Palmolive (India) Limited,COLPAL.NS,545630355456.0,54563.04,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+APARINDS,APAR Industries Limited,APARINDS.NS,542151311360.0,54215.13,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+THERMAX,Thermax Limited,THERMAX.NS,533977268224.0,53397.73,Large Cap,Industrials,Conglomerates,2026-06-09
+UPL,UPL Limited,UPL.NS,529570529280.0,52957.05,Large Cap,Basic Materials,Agricultural Inputs,2026-06-09
+COROMANDEL,Coromandel International Limited,COROMANDEL.NS,523788517376.0,52378.85,Large Cap,Basic Materials,Agricultural Inputs,2026-06-09
+MRF,MRF Limited,MRF.NS,523526701056.0,52352.67,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+HDBFS,HDB FINANCIAL SERVICES L,HDBFS.NS,520666054656.0,52066.61,Large Cap,Financial Services,Credit Services,2026-06-09
+MOTILALOFS,Motilal Oswal Financial Services Limited,MOTILALOFS.NS,513303281664.0,51330.33,Large Cap,Financial Services,Capital Markets,2026-06-09
+APLAPOLLO,APL Apollo Tubes Limited,APLAPOLLO.NS,505032867840.0,50503.29,Large Cap,Basic Materials,Steel,2026-06-09
+GODREJPROP,Godrej Properties Limited,GODREJPROP.NS,504704073728.0,50470.41,Large Cap,Real Estate,Real Estate - Development,2026-06-09
+HINDCOPPER,Hindustan Copper Limited,HINDCOPPER.NS,501111848960.0,50111.18,Large Cap,Basic Materials,Copper,2026-06-09
+KEI,KEI Industries Limited,KEI.NS,500325711872.0,50032.57,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+PREMIERENE,PREMIER ENERGIES LIMITED,PREMIERENE.NS,496155394048.0,49615.54,Large Cap,Technology,Solar,2026-06-09
+RVNL,Rail Vikas Nigam Limited,RVNL.NS,489729556480.0,48972.96,Large Cap,Industrials,Engineering & Construction,2026-06-09
+RADICO,Radico Khaitan Limited,RADICO.NS,470018686976.0,47001.87,Large Cap,Consumer Defensive,Beverages - Wineries & Distilleries,2026-06-09
+PATANJALI,Patanjali Foods Limited,PATANJALI.NS,458378117120.0,45837.81,Large Cap,Consumer Defensive,Packaged Foods,2026-06-09
+SUNDARMFIN,Sundaram Finance Limited,SUNDARMFIN.NS,455708835840.0,45570.88,Large Cap,Financial Services,Credit Services,2026-06-09
+NLCINDIA,NLC India Limited,NLCINDIA.NS,449686241280.0,44968.62,Large Cap,Utilities,Utilities - Regulated Electric,2026-06-09
+MPHASIS,Mphasis Limited,MPHASIS.NS,447542296576.0,44754.23,Large Cap,Technology,Information Technology Services,2026-06-09
+SUPREMEIND,The Supreme Industries Limited,SUPREMEIND.NS,447289786368.0,44728.98,Large Cap,Industrials,Building Products & Equipment,2026-06-09
+PIRAMALFIN,Piramal Finance Limited,PIRAMALFIN.NS,446585733120.0,44658.57,Large Cap,Financial Services,Credit Services,2026-06-09
+BDL,Bharat Dynamics Limited,BDL.NS,438042198016.0,43804.22,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+ANTHEM,ANTHEM BIOSCIENCES LTD,ANTHEM.NS,436002291712.0,43600.23,Large Cap,Healthcare,Biotechnology,2026-06-09
+360ONE,360 One Wam Limited,360ONE.NS,432908206080.0,43290.82,Large Cap,Financial Services,Asset Management,2026-06-09
+PAGEIND,Page Industries Limited,PAGEIND.NS,431431843840.0,43143.18,Large Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+VOLTAS,Voltas Limited,VOLTAS.NS,430381760512.0,43038.18,Large Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+AIAENG,AIA Engineering Limited,AIAENG.NS,426343432192.0,42634.34,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+IPCALAB,Ipca Laboratories Limited,IPCALAB.NS,419423813632.0,41942.38,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+CPPLUS,ADITYA INFOTECH LIMITED,CPPLUS.NS,416742899712.0,41674.29,Large Cap,Industrials,Building Products & Equipment,2026-06-09
+IRCTC,Indian Railway Catering & Tourism Corporation Limited,IRCTC.NS,413879992320.0,41388.0,Large Cap,Consumer Cyclical,Travel Services,2026-06-09
+PIIND,PI Industries Limited,PIIND.NS,413649207296.0,41364.92,Large Cap,Basic Materials,Agricultural Inputs,2026-06-09
+BALKRISIND,Balkrishna Industries Limited,BALKRISIND.NS,410721714176.0,41072.17,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+HUDCO,Housing and Urban Development Corporation Limited,HUDCO.NS,410389512192.0,41038.95,Large Cap,Financial Services,Credit Services,2026-06-09
+ASTRAL,Astral Limited,ASTRAL.NS,410067632128.0,41006.76,Large Cap,Industrials,Building Products & Equipment,2026-06-09
+ASTERDM,Aster DM Healthcare Limited,ASTERDM.NS,406727917568.0,40672.79,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+PETRONET,Petronet LNG Limited,PETRONET.NS,400275046400.0,40027.5,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+AIIL,Authum Investment & Infrastructure Limited,AIIL.NS,395993841664.0,39599.38,Large Cap,Financial Services,Capital Markets,2026-06-09
+M&MFIN,Mahindra & Mahindra Financial Services Limited,M&MFIN.NS,393727639552.0,39372.76,Large Cap,Financial Services,Credit Services,2026-06-09
+NH,Narayana Hrudayalaya Limited,NH.NS,391556202496.0,39155.62,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+ATHERENERG,Ather Energy Limited,ATHERENERG.NS,386147614720.0,38614.76,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+FLUOROCHEM,Gujarat Fluorochemicals Limited,FLUOROCHEM.NS,381618913280.0,38161.89,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+GLAND,Gland Pharma Limited,GLAND.NS,380199075840.0,38019.91,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+AJANTPHARM,Ajanta Pharma Limited,AJANTPHARM.NS,378380058624.0,37838.01,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,GLAXO.NS,375064952832.0,37506.5,Large Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+COCHINSHIP,Cochin Shipyard Limited,COCHINSHIP.NS,374548103168.0,37454.81,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+JKCEMENT,J.K. Cement Limited,JKCEMENT.NS,370192187392.0,37019.22,Large Cap,Basic Materials,Building Materials,2026-06-09
+SONACOMS,Sona BLW Precision Forgings Limited,SONACOMS.NS,369515921408.0,36951.59,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+KALYANKJIL,Kalyan Jewellers India Limited,KALYANKJIL.NS,368998055936.0,36899.81,Large Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+WELCORP,Welspun Corp Limited,WELCORP.NS,366152908800.0,36615.29,Large Cap,Basic Materials,Steel,2026-06-09
+3MINDIA,3M India Limited,3MINDIA.NS,358905118720.0,35890.51,Large Cap,Industrials,Conglomerates,2026-06-09
+KPRMILL,K.P.R. Mill Limited,KPRMILL.NS,353928577024.0,35392.86,Large Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+NAVINFLUOR,Navin Fluorine International Limited,NAVINFLUOR.NS,353334624256.0,35333.46,Large Cap,Basic Materials,Chemicals,2026-06-09
+ENDURANCE,Endurance Technologies Limited,ENDURANCE.NS,352613629952.0,35261.36,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+JBCHEPHARM,J. B. Chemicals & Pharmaceuticals Limited,JBCHEPHARM.NS,352137347072.0,35213.73,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+UBL,United Breweries Limited,UBL.NS,350627659776.0,35062.77,Large Cap,Consumer Defensive,Beverages - Brewers,2026-06-09
+GODREJIND,Godrej Industries Limited,GODREJIND.NS,345898549248.0,34589.85,Large Cap,Industrials,Conglomerates,2026-06-09
+GODFRYPHLP,Godfrey Phillips India Limited,GODFRYPHLP.NS,345795952640.0,34579.6,Large Cap,Consumer Defensive,Tobacco,2026-06-09
+IREDA,Indian Renewable Energy Development Agency Limited,IREDA.NS,343878008832.0,34387.8,Large Cap,Financial Services,Credit Services,2026-06-09
+LTTS,L&T Technology Services Limited,LTTS.NS,341455994880.0,34145.6,Large Cap,Technology,Information Technology Services,2026-06-09
+CONCOR,Container Corporation of India Limited,CONCOR.NS,340024328192.0,34002.43,Large Cap,Industrials,Railroads,2026-06-09
+EMCURE,EMCURE PHARMACEUTICALS L,EMCURE.NS,337461248000.0,33746.12,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+POONAWALLA,Poonawalla Fincorp Limited,POONAWALLA.NS,337169022976.0,33716.9,Large Cap,Financial Services,Credit Services,2026-06-09
+BANDHANBNK,Bandhan Bank Limited,BANDHANBNK.NS,334608433152.0,33460.84,Large Cap,Financial Services,Banks - Regional,2026-06-09
+HSCL,Himadri Speciality Chemical Limited,HSCL.NS,334359724032.0,33435.97,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+TATAINVEST,Tata Investment Corporation Limited,TATAINVEST.NS,333954252800.0,33395.43,Large Cap,Financial Services,Asset Management,2026-06-09
+DELHIVERY,Delhivery Limited,DELHIVERY.NS,331606982656.0,33160.7,Large Cap,Industrials,Integrated Freight & Logistics,2026-06-09
+EXIDEIND,Exide Industries Limited,EXIDEIND.NS,331542495232.0,33154.25,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+MEDANTA,Global Health Limited,MEDANTA.NS,329659351040.0,32965.94,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+HEXT,Hexaware Technologies Limited,HEXT.NS,322037186560.0,32203.72,Large Cap,Technology,Information Technology Services,2026-06-09
+BLUESTARCO,Blue Star Limited,BLUESTARCO.NS,320498368512.0,32049.84,Large Cap,Industrials,Building Products & Equipment,2026-06-09
+KIMS,Krishna Institute of Medical Sciences Limited,KIMS.NS,317190144000.0,31719.01,Large Cap,Healthcare,Medical Care Facilities,2026-06-09
+UCOBANK,UCO Bank,UCOBANK.NS,315746091008.0,31574.61,Large Cap,Financial Services,Banks - Regional,2026-06-09
+DALBHARAT,Dalmia Bharat Limited,DALBHARAT.NS,315572125696.0,31557.21,Large Cap,Basic Materials,Building Materials,2026-06-09
+ITCHOTELS,ITC HOTELS LIMITED,ITCHOTELS.NS,314425245696.0,31442.52,Large Cap,Consumer Cyclical,Resorts & Casinos,2026-06-09
+HONAUT,Honeywell Automation India Limited,HONAUT.NS,311161618432.0,31116.16,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+ESCORTS,Escorts Kubota Limited,ESCORTS.NS,309749121024.0,30974.91,Large Cap,Industrials,Farm & Heavy Construction Machinery,2026-06-09
+WOCKPHARMA,Wockhardt Limited,WOCKPHARMA.NS,307955171328.0,30795.52,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+TATATECH,Tata Technologies Limited,TATATECH.NS,305757028352.0,30575.7,Large Cap,Technology,Information Technology Services,2026-06-09
+STARHEALTH,Star Health and Allied Insurance Company Limited,STARHEALTH.NS,305293164544.0,30529.32,Large Cap,Financial Services,Insurance - Life,2026-06-09
+ABSLAMC,Aditya Birla Sun Life AMC Limited,ABSLAMC.NS,303951872000.0,30395.19,Large Cap,Financial Services,Asset Management,2026-06-09
+GRSE,Garden Reach Shipbuilders & Engineers Limited,GRSE.NS,302990032896.0,30299.0,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+STLTECH,Sterlite Technologies Limited,STLTECH.NS,301541163008.0,30154.12,Large Cap,Technology,Communication Equipment,2026-06-09
+ANGELONE,Angel One Limited,ANGELONE.NS,301222625280.0,30122.26,Large Cap,Financial Services,Capital Markets,2026-06-09
+LICHSGFIN,LIC Housing Finance Limited,LICHSGFIN.NS,301186973696.0,30118.7,Large Cap,Financial Services,Mortgage Finance,2026-06-09
+PWL,Physicswallah Limited,PWL.NS,296435744768.0,29643.57,Large Cap,Consumer Defensive,Education & Training Services,2026-06-09
+ANANDRATHI,Anand Rathi Wealth Limited,ANANDRATHI.NS,291003924480.0,29100.39,Large Cap,Financial Services,Asset Management,2026-06-09
+ITI,ITI Limited,ITI.NS,286737301504.0,28673.73,Large Cap,Technology,Communication Equipment,2026-06-09
+SJVN,SJVN Limited,SJVN.NS,285774708736.0,28577.47,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+MANAPPURAM,Manappuram Finance Limited,MANAPPURAM.NS,285323362304.0,28532.34,Large Cap,Financial Services,Credit Services,2026-06-09
+NUVAMA,Nuvama Wealth Management Limited,NUVAMA.NS,282562658304.0,28256.27,Large Cap,Financial Services,Asset Management,2026-06-09
+NBCC,NBCC (India) Limited,NBCC.NS,281880002560.0,28188.0,Large Cap,Industrials,Engineering & Construction,2026-06-09
+CRISIL,CRISIL Limited,CRISIL.NS,281470107648.0,28147.01,Large Cap,Financial Services,Financial Data & Stock Exchanges,2026-06-09
+HFCL,HFCL Limited,HFCL.NS,281400180736.0,28140.02,Large Cap,Technology,Communication Equipment,2026-06-09
+IKS,INVENTURUS KNOWLEDGE SO L,IKS.NS,279921000448.0,27992.1,Large Cap,Healthcare,Health Information Services,2026-06-09
+GODIGIT,GO DIGIT GENERAL INS LTD,GODIGIT.NS,279412015104.0,27941.2,Large Cap,Financial Services,Insurance - Property & Casualty,2026-06-09
+PTCIL,PTC Industries Limited,PTCIL.NS,278111780864.0,27811.18,Large Cap,Industrials,Metal Fabrication,2026-06-09
+CENTRALBK,Central Bank of India,CENTRALBK.NS,277606465536.0,27760.65,Large Cap,Financial Services,Banks - Regional,2026-06-09
+JUBLFOOD,Jubilant FoodWorks Limited,JUBLFOOD.NS,274513362944.0,27451.34,Large Cap,Consumer Cyclical,Restaurants,2026-06-09
+KARURVYSYA,The Karur Vysya Bank Limited,KARURVYSYA.NS,273166516224.0,27316.65,Large Cap,Financial Services,Banks - Regional,2026-06-09
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,ZFCVINDIA.NS,272772825088.0,27277.28,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+AMBER,Amber Enterprises India Limited,AMBER.NS,272002662400.0,27200.27,Large Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+TIMKEN,Timken India Limited,TIMKEN.NS,271998484480.0,27199.85,Large Cap,Industrials,Tools & Accessories,2026-06-09
+SHYAMMETL,Shyam Metalics and Energy Limited,SHYAMMETL.NS,271426535424.0,27142.65,Large Cap,Basic Materials,Steel,2026-06-09
+MRPL,Mangalore Refinery and Petrochemicals Limited,MRPL.NS,271197143040.0,27119.71,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+SCHNEIDER,Schneider Electric Infrastructure Limited,SCHNEIDER.NS,271048327168.0,27104.83,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+AEGISLOG,AEGIS LOGISTICS LIMITED,AEGISLOG.NS,271042199552.0,27104.22,Large Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+KIRLOSENG,Kirloskar Oil Engines Limited,KIRLOSENG.NS,270552055808.0,27055.21,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,CHOLAHLDNG.NS,268521766912.0,26852.18,Large Cap,Financial Services,Credit Services,2026-06-09
+ACUTAAS,Acutaas Chemicals Limited,ACUTAAS.NS,263944290304.0,26394.43,Large Cap,Basic Materials,Specialty Chemicals,2026-06-09
+TATAELXSI,Tata Elxsi Limited,TATAELXSI.NS,262750339072.0,26275.03,Large Cap,Technology,Software - Application,2026-06-09
+LALPATHLAB,Dr. Lal PathLabs Limited,LALPATHLAB.NS,260284973056.0,26028.5,Large Cap,Healthcare,Diagnostics & Research,2026-06-09
+PNBHOUSING,PNB Housing Finance Limited,PNBHOUSING.NS,257931902976.0,25793.19,Large Cap,Financial Services,Mortgage Finance,2026-06-09
+SAILIFE,SAI LIFE SCIENCES LIMITED,SAILIFE.NS,255429492736.0,25542.95,Large Cap,Healthcare,Diagnostics & Research,2026-06-09
+IRB,IRB Infrastructure Developers Limited,IRB.NS,253638000640.0,25363.8,Large Cap,Industrials,Infrastructure Operations,2026-06-09
+MSUMI,Motherson Sumi Wiring India Limited,MSUMI.NS,252533702656.0,25253.37,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+CDSL,Central Depository Services (India) Limited,CDSL.NS,252513796096.0,25251.38,Large Cap,Financial Services,Capital Markets,2026-06-09
+GILLETTE,Gillette India Limited,GILLETTE.NS,250645479424.0,25064.55,Large Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+ACMESOLAR,ACME Solar Holdings Limited,ACMESOLAR.NS,250335444992.0,25033.54,Large Cap,Utilities,Utilities - Renewable,2026-06-09
+RRKABEL,R R Kabel Limited,RRKABEL.NS,249046990848.0,24904.7,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+NETWEB,Netweb Technologies India Limited,NETWEB.NS,247919755264.0,24791.98,Large Cap,Technology,Computer Hardware,2026-06-09
+ACC,ACC Limited,ACC.NS,247503618048.0,24750.36,Large Cap,Basic Materials,Building Materials,2026-06-09
+NIACL,The New India Assurance Company Limited,NIACL.NS,247364812800.0,24736.48,Large Cap,Financial Services,Insurance - Diversified,2026-06-09
+APOLLOTYRE,Apollo Tyres Limited,APOLLOTYRE.NS,244461060096.0,24446.11,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+AWL,AWL Agri Business Limited,AWL.NS,242466783232.0,24246.68,Large Cap,Consumer Defensive,Packaged Foods,2026-06-09
+DATAPATTNS,Data Patterns (India) Limited,DATAPATTNS.NS,240731062272.0,24073.11,Large Cap,Industrials,Aerospace & Defense,2026-06-09
+SYRMA,Syrma SGS Technology Limited,SYRMA.NS,238854963200.0,23885.5,Large Cap,Technology,Electronic Components,2026-06-09
+EMMVEE,EMMVEE PHOTOVOLTAIC PWR L,EMMVEE.NS,232558690304.0,23255.87,Large Cap,Technology,Solar,2026-06-09
+SUMICHEM,Sumitomo Chemical India Limited,SUMICHEM.NS,229856608256.0,22985.66,Large Cap,Basic Materials,Agricultural Inputs,2026-06-09
+CESC,CESC Limited,CESC.NS,229602066432.0,22960.21,Large Cap,Utilities,Utilities - Regulated Electric,2026-06-09
+PPLPHARMA,Piramal Pharma Limited,PPLPHARMA.NS,228217176064.0,22821.72,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+FORCEMOT,Force Motors Limited,FORCEMOT.NS,227303702528.0,22730.37,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+IGL,Indraprastha Gas Limited,IGL.NS,227220258816.0,22722.03,Large Cap,Utilities,Utilities - Regulated Gas,2026-06-09
+DEEPAKNTR,Deepak Nitrite Limited,DEEPAKNTR.NS,226316976128.0,22631.7,Large Cap,Basic Materials,Chemicals,2026-06-09
+MTARTECH,MTAR Technologies Limited,MTARTECH.NS,224852623360.0,22485.26,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ASAHIINDIA,Asahi India Glass Limited,ASAHIINDIA.NS,223851560960.0,22385.16,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+NEULANDLAB,Neuland Laboratories Limited,NEULANDLAB.NS,219403927552.0,21940.39,Large Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+RBLBANK,RBL Bank Limited,RBLBANK.NS,217882116096.0,21788.21,Large Cap,Financial Services,Banks - Regional,2026-06-09
+KPIL,Kalpataru Projects International Limited,KPIL.NS,217649610752.0,21764.96,Large Cap,Industrials,Engineering & Construction,2026-06-09
+CRAFTSMAN,Craftsman Automation Limited,CRAFTSMAN.NS,214557114368.0,21455.71,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+HBLENGINE,HBL ENGINEERING LTD,HBLENGINE.NS,214479585280.0,21447.96,Large Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+TRITURBINE,Triveni Turbine Limited,TRITURBINE.NS,213339308032.0,21333.93,Large Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+IIFL,IIFL Finance Limited,IIFL.NS,212869103616.0,21286.91,Large Cap,Financial Services,Credit Services,2026-06-09
+AEGISVOPAK,AEGIS VOPAK TERMINALS LTD,AEGISVOPAK.NS,208080814080.0,20808.08,Large Cap,Energy,Oil & Gas Equipment & Services,2026-06-09
+AFFLE,Affle 3i Limited,AFFLE.NS,207894970368.0,20789.5,Large Cap,Communication Services,Advertising Agencies,2026-06-09
+PFIZER,Pfizer Limited,PFIZER.NS,206468677632.0,20646.87,Large Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+KAYNES,Kaynes Technology India Limited,KAYNES.NS,206305869824.0,20630.59,Large Cap,Technology,Electronic Components,2026-06-09
+KPITTECH,KPIT Technologies Limited,KPITTECH.NS,204932661248.0,20493.27,Large Cap,Technology,Software - Infrastructure,2026-06-09
+GESHIP,The Great Eastern Shipping Company Limited,GESHIP.NS,204342657024.0,20434.27,Large Cap,Industrials,Marine Shipping,2026-06-09
+CARBORUNIV,Carborundum Universal Limited,CARBORUNIV.NS,203275616256.0,20327.56,Large Cap,Industrials,Conglomerates,2026-06-09
+BELRISE,BELRISE INDUSTRIES LTD,BELRISE.NS,202919149568.0,20291.91,Large Cap,Consumer Cyclical,Auto Parts,2026-06-09
+SAMMAANCAP,Sammaan Capital Limited,SAMMAANCAP.NS,202876239872.0,20287.62,Large Cap,Financial Services,Mortgage Finance,2026-06-09
+IFCI,IFCI Limited,IFCI.NS,202774102016.0,20277.41,Large Cap,Financial Services,Credit Services,2026-06-09
+RAMCOCEM,The Ramco Cements Limited,RAMCOCEM.NS,202360799232.0,20236.08,Large Cap,Basic Materials,Building Materials,2026-06-09
+AADHARHFC,AADHAR HOUSING FINANCE L,AADHARHFC.NS,202311778304.0,20231.18,Large Cap,Financial Services,Mortgage Finance,2026-06-09
+CEMPRO,Cemindia Projects Limited,CEMPRO.NS,202193993728.0,20219.4,Large Cap,Industrials,Engineering & Construction,2026-06-09
+SUNTV,Sun TV Network Limited,SUNTV.NS,202165403648.0,20216.54,Large Cap,Communication Services,Broadcasting,2026-06-09
+OLAELEC,OLA ELECTRIC MOBILITY LTD,OLAELEC.NS,201315106816.0,20131.51,Large Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+CREDITACC,CreditAccess Grameen Limited,CREDITACC.NS,200083996672.0,20008.4,Large Cap,Financial Services,Credit Services,2026-06-09
+RUBICON,RUBICON RESEARCH LIMITED,RUBICON.NS,198639435776.0,19863.94,Mid Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+ONESOURCE,ONESOURCE SPECL PHARMA L,ONESOURCE.NS,198302826496.0,19830.28,Mid Cap,Healthcare,Biotechnology,2026-06-09
+ANANTRAJ,Anant Raj Limited,ANANTRAJ.NS,196942643200.0,19694.26,Mid Cap,Real Estate,Real Estate - Development,2026-06-09
+GMDCLTD,Gujarat Mineral Development Corporation Limited,GMDCLTD.NS,196364992512.0,19636.5,Mid Cap,Energy,Thermal Coal,2026-06-09
+ATUL,Atul Ltd,ATUL.NS,195449094144.0,19544.91,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+CGCL,Capri Global Capital Limited,CGCL.NS,194557165568.0,19455.72,Mid Cap,Financial Services,Credit Services,2026-06-09
+BAYERCROP,Bayer CropScience Limited,BAYERCROP.NS,193259995136.0,19326.0,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+CUPID,Cupid Limited,CUPID.NS,192945373184.0,19294.54,Mid Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+GRANULES,Granules India Limited,GRANULES.NS,192761233408.0,19276.12,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+TDPOWERSYS,TD Power Systems Limited,TDPOWERSYS.NS,190911135744.0,19091.11,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ELGIEQUIP,Elgi Equipments Limited,ELGIEQUIP.NS,189617750016.0,18961.78,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ERIS,Eris Lifesciences Limited,ERIS.NS,189463019520.0,18946.3,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+SARDAEN,Sarda Energy & Minerals Limited,SARDAEN.NS,188383019008.0,18838.3,Mid Cap,Basic Materials,Steel,2026-06-09
+PFOCUS,Prime Focus Limited,PFOCUS.NS,187781955584.0,18778.2,Mid Cap,Communication Services,Entertainment,2026-06-09
+SAGILITY,Sagility Limited,SAGILITY.NS,187112718336.0,18711.27,Mid Cap,Healthcare,Health Information Services,2026-06-09
+CAMS,Computer Age Management Services Limited,CAMS.NS,186075152384.0,18607.52,Mid Cap,Technology,Information Technology Services,2026-06-09
+DEEPAKFERT,Deepak Fertilisers And Petrochemicals Corporation Limited,DEEPAKFERT.NS,185946587136.0,18594.66,Mid Cap,Basic Materials,Chemicals,2026-06-09
+CUB,City Union Bank Limited,CUB.NS,185772605440.0,18577.26,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+REDINGTON,Redington Limited,REDINGTON.NS,185710510080.0,18571.05,Mid Cap,Technology,Information Technology Services,2026-06-09
+SANSERA,Sansera Engineering Limited,SANSERA.NS,183748640768.0,18374.86,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+TATACHEM,Tata Chemicals Limited,TATACHEM.NS,183411785728.0,18341.18,Mid Cap,Basic Materials,Chemicals,2026-06-09
+SYNGENE,Syngene International Limited,SYNGENE.NS,182339928064.0,18233.99,Mid Cap,Healthcare,Diagnostics & Research,2026-06-09
+CASTROLIND,Castrol India Limited,CASTROLIND.NS,181167652864.0,18116.77,Mid Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+VTL,Vardhman Textiles Limited,VTL.NS,181090402304.0,18109.04,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+CHENNPETRO,Chennai Petroleum Corporation Limited,CHENNPETRO.NS,181031567360.0,18103.16,Mid Cap,Energy,Oil & Gas Refining & Marketing,2026-06-09
+CHAMBLFERT,Chambal Fertilisers and Chemicals Limited,CHAMBLFERT.NS,180493860864.0,18049.39,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+GPIL,Godawari Power & Ispat Limited,GPIL.NS,180280557568.0,18028.06,Mid Cap,Basic Materials,Steel,2026-06-09
+RATNAMANI,Ratnamani Metals & Tubes Limited,RATNAMANI.NS,180129431552.0,18012.94,Mid Cap,Basic Materials,Steel,2026-06-09
+EIHOTEL,EIH Limited,EIHOTEL.NS,179073024000.0,17907.3,Mid Cap,Consumer Cyclical,Lodging,2026-06-09
+BBOX,Black Box Limited,BBOX.NS,178611519488.0,17861.15,Mid Cap,Technology,Software - Application,2026-06-09
+URBANCO,Urban Company Limited,URBANCO.NS,177537974272.0,17753.8,Mid Cap,Technology,Software - Application,2026-06-09
+INDIACEM,The India Cements Limited,INDIACEM.NS,173828866048.0,17382.89,Mid Cap,Basic Materials,Building Materials,2026-06-09
+KAJARIACER,Kajaria Ceramics Limited,KAJARIACER.NS,172619317248.0,17261.93,Mid Cap,Industrials,Building Products & Equipment,2026-06-09
+CROMPTON,Crompton Greaves Consumer Electricals Limited,CROMPTON.NS,172157665280.0,17215.77,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+FSL,Firstsource Solutions Limited,FSL.NS,172071731200.0,17207.17,Mid Cap,Technology,Information Technology Services,2026-06-09
+KANSAINER,Kansai Nerolac Paints Limited,KANSAINER.NS,171156340736.0,17115.63,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+JSWCEMENT,JSW CEMENT LIMITED,JSWCEMENT.NS,169950396416.0,16995.04,Mid Cap,Basic Materials,Building Materials,2026-06-09
+CENTURYPLY,Century Plyboards (India) Limited,CENTURYPLY.NS,168529313792.0,16852.93,Mid Cap,Basic Materials,Lumber & Wood Production,2026-06-09
+THANGAMAYL,Thangamayil Jewellery Limited,THANGAMAYL.NS,168063598592.0,16806.36,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+EMAMILTD,Emami Limited,EMAMILTD.NS,167550533632.0,16755.05,Mid Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+CIEINDIA,CIE Automotive India Limited,CIEINDIA.NS,167071186944.0,16707.12,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+J&KBANK,Jammu and Kashmir Bank Limited,J&KBANK.NS,166058311680.0,16605.83,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+PINELABS,PINE LABS LIMITED,PINELABS.NS,166040764416.0,16604.08,Mid Cap,Technology,Software - Infrastructure,2026-06-09
+CHALET,Chalet Hotels Limited,CHALET.NS,165647171584.0,16564.72,Mid Cap,Consumer Cyclical,Lodging,2026-06-09
+NAVA,Nava Limited,NAVA.NS,165301043200.0,16530.1,Mid Cap,Industrials,Conglomerates,2026-06-09
+COHANCE,COHANCE LIFESCIENCES LTD,COHANCE.NS,164431233024.0,16443.12,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+CAPLIPOINT,Caplin Point Laboratories Limited,CAPLIPOINT.NS,163311124480.0,16331.11,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ZYDUSWELL,Zydus Wellness Limited,ZYDUSWELL.NS,162594275328.0,16259.43,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+BIKAJI,Bikaji Foods International Limited,BIKAJI.NS,162564931584.0,16256.49,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+ABDL,ALLIED BLEND N DISTILS L,ABDL.NS,161574567936.0,16157.46,Mid Cap,Consumer Defensive,Beverages - Wineries & Distilleries,2026-06-09
+ZENTEC,Zen Technologies Limited,ZENTEC.NS,161432862720.0,16143.29,Mid Cap,Industrials,Aerospace & Defense,2026-06-09
+TRAVELFOOD,TRAVEL FOOD SERVICES LTD,TRAVELFOOD.NS,160912326656.0,16091.23,Mid Cap,Consumer Cyclical,Restaurants,2026-06-09
+FINCABLES,Finolex Cables Limited,FINCABLES.NS,159056920576.0,15905.69,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+BRIGADE,Brigade Enterprises Limited,BRIGADE.NS,158710611968.0,15871.06,Mid Cap,Real Estate,Real Estate - Development,2026-06-09
+AARTIIND,Aarti Industries Limited,AARTIIND.NS,157915103232.0,15791.51,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+IGIL,International Gemological Institute Limited,IGIL.NS,157090037760.0,15709.0,Mid Cap,Basic Materials,Other Precious Metals & Mining,2026-06-09
+JBMA,JBM Auto Limited,JBMA.NS,156996714496.0,15699.67,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+NATCOPHARM,NATCO Pharma Limited,NATCOPHARM.NS,156076343296.0,15607.63,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+DCMSHRIRAM,DCM Shriram Limited,DCMSHRIRAM.NS,155094302720.0,15509.43,Mid Cap,Industrials,Conglomerates,2026-06-09
+CCL,CCL Products (India) Limited,CCL.NS,154819346432.0,15481.93,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+INOXINDIA,INOX India Limited,INOXINDIA.NS,153735233536.0,15373.52,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+JINDALSAW,Jindal Saw Limited,JINDALSAW.NS,153029066752.0,15302.91,Mid Cap,Basic Materials,Steel,2026-06-09
+JUBLPHARMA,Jubilant Pharmova Limited,JUBLPHARMA.NS,152550604800.0,15255.06,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ARE&M,Amara Raja Energy & Mobility Limited,ARE&M.NS,151883595776.0,15188.36,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+MINDACORP,Minda Corporation Limited,MINDACORP.NS,151796023296.0,15179.6,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+NIVABUPA,Niva Bupa Health Insurance Company Limited,NIVABUPA.NS,151201988608.0,15120.2,Mid Cap,Financial Services,Insurance - Life,2026-06-09
+USHAMART,Usha Martin Limited,USHAMART.NS,151119527936.0,15111.95,Mid Cap,Basic Materials,Steel,2026-06-09
+GALLANTT,Gallantt Ispat Limited,GALLANTT.NS,150498983936.0,15049.9,Mid Cap,Basic Materials,Steel,2026-06-09
+AETHER,Aether Industries Limited,AETHER.NS,150173384704.0,15017.34,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+ATLANTAELE,ATLANTA ELECTRICALS LTD,ATLANTAELE.NS,148410482688.0,14841.05,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+ANURAS,Anupam Rasayan India Ltd,ANURAS.NS,147729563648.0,14772.96,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+INOXWIND,Inox Wind Limited,INOXWIND.NS,147090325504.0,14709.03,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+APOLLO,Apollo Micro Systems Limited,APOLLO.NS,146745344000.0,14674.53,Mid Cap,Industrials,Aerospace & Defense,2026-06-09
+BEML,BEML Limited,BEML.NS,146380423168.0,14638.04,Mid Cap,Industrials,Conglomerates,2026-06-09
+APLLTD,Alembic Pharmaceuticals Limited,APLLTD.NS,146125029376.0,14612.5,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+SHRIPISTON,SPR Auto Technologies Limited,SHRIPISTON.NS,145743249408.0,14574.32,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+CHOICEIN,Choice International Limited,CHOICEIN.NS,145718099968.0,14571.81,Mid Cap,Financial Services,Capital Markets,2026-06-09
+KFINTECH,KFin Technologies Limited,KFINTECH.NS,145367793664.0,14536.78,Mid Cap,Technology,Software - Application,2026-06-09
+NSLNISP,NMDC Steel Limited,NSLNISP.NS,144918462464.0,14491.85,Mid Cap,Basic Materials,Steel,2026-06-09
+AGARWALEYE,DR AGARWALS HEALTH CARE L,AGARWALEYE.NS,143957852160.0,14395.79,Mid Cap,Healthcare,Medical Instruments & Supplies,2026-06-09
+GABRIEL,Gabriel India Limited,GABRIEL.NS,143888138240.0,14388.81,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+JYOTICNC,Jyoti CNC Automation Limited,JYOTICNC.NS,142821703680.0,14282.17,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+AVANTIFEED,Avanti Feeds Limited,AVANTIFEED.NS,142649180160.0,14264.92,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+JSWDULUX,JSW Dulux Limited,JSWDULUX.NS,142636810240.0,14263.68,Mid Cap,Unknown,Unknown,2026-06-09
+GRWRHITECH,Garware Hi-Tech Films Limited,GRWRHITECH.NS,142414577664.0,14241.46,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+POLYMED,Poly Medicure Limited,POLYMED.NS,142213365760.0,14221.34,Mid Cap,Healthcare,Medical Instruments & Supplies,2026-06-09
+SHAILY,Shaily Engineering Plastics Limited,SHAILY.NS,142042529792.0,14204.25,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+AZAD,AZAD ENGINEERING LIMITED,AZAD.NS,141124026368.0,14112.4,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+MAHSCOOTER,Maharashtra Scooters Ltd.,MAHSCOOTER.NS,140262817792.0,14026.28,Mid Cap,Financial Services,Asset Management,2026-06-09
+KSB,KSB Limited,KSB.NS,139944935424.0,13994.49,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+SOBHA,Sobha Limited,SOBHA.NS,139681710080.0,13968.17,Mid Cap,Real Estate,Real Estate - Development,2026-06-09
+THELEELA,Leela Palaces Hotels & Resorts Limited,THELEELA.NS,138241867776.0,13824.19,Mid Cap,Consumer Cyclical,Lodging,2026-06-09
+SCI,The Shipping Corporation of India Limited,SCI.NS,138202578944.0,13820.26,Mid Cap,Industrials,Marine Shipping,2026-06-09
+WELSPUNLIV,Welspun Living Limited,WELSPUNLIV.NS,137765945344.0,13776.59,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+DEVYANI,Devyani International Limited,DEVYANI.NS,136979603456.0,13697.96,Mid Cap,Consumer Cyclical,Restaurants,2026-06-09
+PGEL,PG Electroplast Limited,PGEL.NS,136801837056.0,13680.18,Mid Cap,Technology,Electronic Components,2026-06-09
+RAINBOW,Rainbow Children's Medicare Limited,RAINBOW.NS,136639799296.0,13663.98,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+ABREL,Aditya Birla Real Estate Limited,ABREL.NS,136453054464.0,13645.31,Mid Cap,Real Estate,Real Estate Services,2026-06-09
+KIRLOSBROS,Kirloskar Brothers Limited,KIRLOSBROS.NS,136130732032.0,13613.07,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+TEGA,Tega Industries Limited,TEGA.NS,135605493760.0,13560.55,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+HONASA,Honasa Consumer Limited,HONASA.NS,135498760192.0,13549.88,Mid Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+ASTRAMICRO,Astra Microwave Products Limited,ASTRAMICRO.NS,135201693696.0,13520.17,Mid Cap,Technology,Communication Equipment,2026-06-09
+ENGINERSIN,Engineers India Limited,ENGINERSIN.NS,134732800000.0,13473.28,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+VIJAYA,Vijaya Diagnostic Centre Limited,VIJAYA.NS,133950963712.0,13395.1,Mid Cap,Healthcare,Diagnostics & Research,2026-06-09
+VGUARD,V-Guard Industries Limited,VGUARD.NS,132154990592.0,13215.5,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+CANHLIFE,CANARA HSBC LIFE INS CO L,CANHLIFE.NS,131984654336.0,13198.47,Mid Cap,Financial Services,Insurance - Life,2026-06-09
+GRAPHITE,Graphite India Limited,GRAPHITE.NS,131038420992.0,13103.84,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+ARVIND,Arvind Limited,ARVIND.NS,130926264320.0,13092.63,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+KEC,KEC International Limited,KEC.NS,130557796352.0,13055.78,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+PARADEEP,Paradeep Phosphates Limited,PARADEEP.NS,129947811840.0,12994.78,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+LTFOODS,LT Foods Limited,LTFOODS.NS,129716330496.0,12971.63,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+ECLERX,eClerx Services Limited,ECLERX.NS,128975134720.0,12897.51,Mid Cap,Technology,Information Technology Services,2026-06-09
+EIDPARRY,E.I.D.- Parry (India) Limited,EIDPARRY.NS,128507084800.0,12850.71,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+CONCORDBIO,Concord Biotech Limited,CONCORDBIO.NS,128468705280.0,12846.87,Mid Cap,Healthcare,Biotechnology,2026-06-09
+JPPOWER,Jaiprakash Power Ventures Limited,JPPOWER.NS,128022618112.0,12802.26,Mid Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+TBOTEK,TBO TEK LIMITED,TBOTEK.NS,127841779712.0,12784.18,Mid Cap,Consumer Cyclical,Travel Services,2026-06-09
+IRCON,Ircon International Limited,IRCON.NS,127834890240.0,12783.49,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+PRIVISCL,Privi Speciality Chemicals Limited,PRIVISCL.NS,127270199296.0,12727.02,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+SPLPETRO,Supreme Petrochem Limited,SPLPETRO.NS,127247581184.0,12724.76,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+APTUS,Aptus Value Housing Finance India Limited,APTUS.NS,127063465984.0,12706.35,Mid Cap,Financial Services,Mortgage Finance,2026-06-09
+DOMS,DOMS Industries Limited,DOMS.NS,126917517312.0,12691.75,Mid Cap,Industrials,Business Equipment & Supplies,2026-06-09
+JAINREC,JAIN RESOURCE RECYCLING L,JAINREC.NS,126439440384.0,12643.94,Mid Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+CEATLTD,CEAT Limited,CEATLTD.NS,126059184128.0,12605.92,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+FIVESTAR,Five-Star Business Finance Limited,FIVESTAR.NS,125849903104.0,12584.99,Mid Cap,Financial Services,Credit Services,2026-06-09
+INDGN,INDEGENE LIMITED,INDGN.NS,125265297408.0,12526.53,Mid Cap,Healthcare,Health Information Services,2026-06-09
+ALIVUS,Alivus Life Sciences Limited,ALIVUS.NS,125194240000.0,12519.42,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+PARKHOSPS,PARK MEDI WORLD LIMITED,PARKHOSPS.NS,123445837824.0,12344.58,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+TRIDENT,Trident Limited,TRIDENT.NS,123313143808.0,12331.31,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+AEQUS,AEQUS LIMITED,AEQUS.NS,121802866688.0,12180.29,Mid Cap,Industrials,Aerospace & Defense,2026-06-09
+INDIAMART,IndiaMART InterMESH Limited,INDIAMART.NS,120878702592.0,12087.87,Mid Cap,Communication Services,Internet Content & Information,2026-06-09
+TMB,Tamilnad Mercantile Bank Limited,TMB.NS,120735072256.0,12073.51,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+ELECON,Elecon Engineering Company Limited,ELECON.NS,120065179648.0,12006.52,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ABLBL,ADITYA BIRLA LIFES BRAN L,ABLBL.NS,119799767040.0,11979.98,Mid Cap,Consumer Cyclical,Apparel Retail,2026-06-09
+JWL,Jupiter Wagons Limited,JWL.NS,118702129152.0,11870.21,Mid Cap,Industrials,Railroads,2026-06-09
+TECHNOE,Techno Electric & Engineering Company Limited,TECHNOE.NS,118509264896.0,11850.93,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+SKFINDUS,SKF IND (INDUSTRIAL) LTD,SKFINDUS.NS,117810667520.0,11781.07,Mid Cap,Industrials,Tools & Accessories,2026-06-09
+SOUTHBANK,The South Indian Bank Limited,SOUTHBANK.NS,117688147968.0,11768.81,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+UTIAMC,UTI Asset Management Company Limited,UTIAMC.NS,117277466624.0,11727.75,Mid Cap,Financial Services,Asset Management,2026-06-09
+AFCONS,AFCONS INFRASTRUCTURE LTD,AFCONS.NS,116146380800.0,11614.64,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+SIGNATURE,Signatureglobal (India) Limited,SIGNATURE.NS,115078250496.0,11507.83,Mid Cap,Real Estate,Real Estate - Development,2026-06-09
+GRAVITA,Gravita India Limited,GRAVITA.NS,115045900288.0,11504.59,Mid Cap,Industrials,Metal Fabrication,2026-06-09
+JMFINANCIL,JM Financial Limited,JMFINANCIL.NS,114728116224.0,11472.81,Mid Cap,Financial Services,Capital Markets,2026-06-09
+TITAGARH,Titagarh Rail Systems Limited,TITAGARH.NS,113846460416.0,11384.65,Mid Cap,Industrials,Railroads,2026-06-09
+RPOWER,Reliance Power Limited,RPOWER.NS,113071980544.0,11307.2,Mid Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+VIYASH,Viyash Scientific Limited,VIYASH.NS,112694812672.0,11269.48,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+BALRAMCHIN,Balrampur Chini Mills Limited,BALRAMCHIN.NS,112552599552.0,11255.26,Mid Cap,Consumer Defensive,Confectioners,2026-06-09
+MARKSANS,Marksans Pharma Limited,MARKSANS.NS,111863472128.0,11186.35,Mid Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+LUMAXTECH,Lumax Auto Technologies Limited,LUMAXTECH.NS,111724101632.0,11172.41,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+HOMEFIRST,Home First Finance Company India Limited,HOMEFIRST.NS,111457198080.0,11145.72,Mid Cap,Financial Services,Mortgage Finance,2026-06-09
+NUVOCO,Nuvoco Vistas Corporation Limited,NUVOCO.NS,111414870016.0,11141.49,Mid Cap,Basic Materials,Building Materials,2026-06-09
+BLUEDART,Blue Dart Express Limited,BLUEDART.NS,111345704960.0,11134.57,Mid Cap,Industrials,Integrated Freight & Logistics,2026-06-09
+PCBL,PCBL Chemical Limited,PCBL.NS,110759723008.0,11075.97,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+AVALON,Avalon Technologies Limited,AVALON.NS,110433452032.0,11043.35,Mid Cap,Technology,Electronic Components,2026-06-09
+METROPOLIS,Metropolis Healthcare Limited,METROPOLIS.NS,110300610560.0,11030.06,Mid Cap,Healthcare,Diagnostics & Research,2026-06-09
+BLS,BLS International Services Limited,BLS.NS,110041047040.0,11004.1,Mid Cap,Industrials,Specialty Business Services,2026-06-09
+GODREJAGRO,Godrej Agrovet Limited,GODREJAGRO.NS,109645185024.0,10964.52,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+CANFINHOME,Can Fin Homes Limited,CANFINHOME.NS,109473054720.0,10947.31,Mid Cap,Financial Services,Mortgage Finance,2026-06-09
+SANOFICONR,SANOFI CONS HEALTHC IND L,SANOFICONR.NS,109459316736.0,10945.93,Mid Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+KIRLPNU,Kirloskar Pneumatic Company Limited,KIRLPNU.NS,108486672384.0,10848.67,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+TI,Tilaknagar Industries Ltd.,TI.NS,108470919168.0,10847.09,Mid Cap,Consumer Defensive,Beverages - Wineries & Distilleries,2026-06-09
+PRUDENT,Prudent Corporate Advisory Services Limited,PRUDENT.NS,108431671296.0,10843.17,Mid Cap,Financial Services,Asset Management,2026-06-09
+SHILPAMED,Shilpa Medicare Limited,SHILPAMED.NS,108019843072.0,10801.98,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ACE,Action Construction Equipment Limited,ACE.NS,107320410112.0,10732.04,Mid Cap,Industrials,Farm & Heavy Construction Machinery,2026-06-09
+DIACABS,Diamond Power Infrastructure Limited,DIACABS.NS,107296579584.0,10729.66,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ZENSARTECH,Zensar Technologies Limited,ZENSARTECH.NS,106929848320.0,10692.98,Mid Cap,Technology,Information Technology Services,2026-06-09
+IEX,Indian Energy Exchange Limited,IEX.NS,106502602752.0,10650.26,Mid Cap,Financial Services,Capital Markets,2026-06-09
+IIFLCAPS,IIFL Capital Services Limited,IIFLCAPS.NS,106435289088.0,10643.53,Mid Cap,Financial Services,Capital Markets,2026-06-09
+FINPIPE,Finolex Industries Limited,FINPIPE.NS,106356170752.0,10635.62,Mid Cap,Industrials,Building Products & Equipment,2026-06-09
+FIRSTCRY,BRAINBEES SOLUTIONS LTD,FIRSTCRY.NS,106213048320.0,10621.3,Mid Cap,Consumer Cyclical,Internet Retail,2026-06-09
+JKTYRE,JK Tyre & Industries Limited,JKTYRE.NS,106047299584.0,10604.73,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+SANDUMA,The Sandur Manganese & Iron Ores Limited,SANDUMA.NS,105455575040.0,10545.56,Mid Cap,Basic Materials,Steel,2026-06-09
+OLECTRA,Olectra Greentech Limited,OLECTRA.NS,104923807744.0,10492.38,Mid Cap,Industrials,Farm & Heavy Construction Machinery,2026-06-09
+UJJIVANSFB,Ujjivan Small Finance Bank Limited,UJJIVANSFB.NS,104343519232.0,10434.35,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+CARTRADE,CarTrade Tech Limited,CARTRADE.NS,104118861824.0,10411.89,Mid Cap,Consumer Cyclical,Auto & Truck Dealerships,2026-06-09
+ZEEL,Zee Entertainment Enterprises Limited,ZEEL.NS,104081883136.0,10408.19,Mid Cap,Communication Services,Broadcasting,2026-06-09
+BBTC,The Bombay Burmah Trading Corporation Limited,BBTC.NS,103904313344.0,10390.43,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+EDELWEISS,Edelweiss Financial Services Limited,EDELWEISS.NS,103635746816.0,10363.57,Mid Cap,Financial Services,Financial Conglomerates,2026-06-09
+MGL,Mahanagar Gas Limited,MGL.NS,103578370048.0,10357.84,Mid Cap,Utilities,Utilities - Regulated Gas,2026-06-09
+MEDPLUS,MedPlus Health Services Limited,MEDPLUS.NS,102901522432.0,10290.15,Mid Cap,Healthcare,Pharmaceutical Retailers,2026-06-09
+INTELLECT,Intellect Design Arena Limited,INTELLECT.NS,102291726336.0,10229.17,Mid Cap,Technology,Software - Application,2026-06-09
+LLOYDSENGG,Lloyds Engineering Works Limited,LLOYDSENGG.NS,102063824896.0,10206.38,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+NAZARA,Nazara Technologies Limited,NAZARA.NS,101877882880.0,10187.79,Mid Cap,Communication Services,Electronic Gaming & Multimedia,2026-06-09
+SBFC,SBFC Finance Limited,SBFC.NS,101209382912.0,10120.94,Mid Cap,Financial Services,Credit Services,2026-06-09
+HEG,HEG Limited,HEG.NS,100280778752.0,10028.08,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+WAAREERTL,Waaree Renewable Technologies Limited,WAAREERTL.NS,100213702656.0,10021.37,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+LLOYDSENT,Lloyds Enterprises Limited,LLOYDSENT.NS,100080738304.0,10008.07,Mid Cap,Basic Materials,Steel,2026-06-09
+RAILTEL,RailTel Corporation of India Limited,RAILTEL.NS,99779747840.0,9977.97,Mid Cap,Communication Services,Telecom Services,2026-06-09
+AAVAS,Aavas Financiers Limited,AAVAS.NS,99569606656.0,9956.96,Mid Cap,Financial Services,Mortgage Finance,2026-06-09
+MMTC,MMTC Limited,MMTC.NS,99419996160.0,9942.0,Mid Cap,Industrials,Conglomerates,2026-06-09
+KTKBANK,The Karnataka Bank Limited,KTKBANK.NS,99310485504.0,9931.05,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+WHIRLPOOL,Whirlpool of India Limited,WHIRLPOOL.NS,99245367296.0,9924.54,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+JUBLINGREA,Jubilant Ingrevia Limited,JUBLINGREA.NS,99203702784.0,9920.37,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+WABAG,VA Tech Wabag Limited,WABAG.NS,98894962688.0,9889.5,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+VOLTAMP,Voltamp Transformers Limited,VOLTAMP.NS,98662154240.0,9866.22,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+RITES,RITES Limited,RITES.NS,98466103296.0,9846.61,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+RKFORGE,Ramkrishna Forgings Limited,RKFORGE.NS,98086305792.0,9808.63,Mid Cap,Industrials,Metal Fabrication,2026-06-09
+MANYAVAR,Vedant Fashions Limited,MANYAVAR.NS,97774043136.0,9777.4,Mid Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+UTLSOLAR,FUJIYAMA POWER SYSTEMS L,UTLSOLAR.NS,97134403584.0,9713.44,Mid Cap,Technology,Solar,2026-06-09
+SWANCORP,Swan Corp Limited,SWANCORP.NS,97014906880.0,9701.49,Mid Cap,Industrials,Conglomerates,2026-06-09
+TEJASNET,Tejas Networks Limited,TEJASNET.NS,95748440064.0,9574.84,Mid Cap,Technology,Communication Equipment,2026-06-09
+CYIENT,Cyient Limited,CYIENT.NS,95615975424.0,9561.6,Mid Cap,Industrials,Conglomerates,2026-06-09
+PVRINOX,PVR INOX Limited,PVRINOX.NS,95283421184.0,9528.34,Mid Cap,Communication Services,Entertainment,2026-06-09
+HCG,HealthCare Global Enterprises Limited,HCG.NS,95135367168.0,9513.54,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+TARIL,TRANS & RECTI. LTD,TARIL.NS,93771800576.0,9377.18,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+BLACKBUCK,BlackBuck Limited,BLACKBUCK.NS,93751762944.0,9375.18,Mid Cap,Technology,Software - Application,2026-06-09
+STAR,Strides Pharma Science Limited,STAR.NS,93619822592.0,9361.98,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ALKYLAMINE,Alkyl Amines Chemicals Limited,ALKYLAMINE.NS,92422414336.0,9242.24,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+BANCOINDIA,Banco Products (India) Limited,BANCOINDIA.NS,91522408448.0,9152.24,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+NCC,NCC Limited,NCC.NS,91056586752.0,9105.66,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+MANORAMA,Manorama Industries Limited,MANORAMA.NS,90739048448.0,9073.9,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+JAYNECOIND,Jayaswal Neco Industries Limited,JAYNECOIND.NS,90128056320.0,9012.81,Mid Cap,Basic Materials,Steel,2026-06-09
+BSOFT,Birlasoft Limited,BSOFT.NS,90106372096.0,9010.64,Mid Cap,Technology,Information Technology Services,2026-06-09
+WEWORK,WEWORK INDIA MANAGEMENT L,WEWORK.NS,90069811200.0,9006.98,Mid Cap,Real Estate,Real Estate Services,2026-06-09
+THYROCARE,Thyrocare Technologies Limited,THYROCARE.NS,88875892736.0,8887.59,Mid Cap,Healthcare,Diagnostics & Research,2026-06-09
+RATEGAIN,RateGain Travel Technologies Limited,RATEGAIN.NS,88555626496.0,8855.56,Mid Cap,Technology,Software - Application,2026-06-09
+QPOWER,QUALITY POWER ELEC EQUP L,QPOWER.NS,88324988928.0,8832.5,Mid Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+JLHL,Jupiter Life Line Hospitals Limited,JLHL.NS,88022384640.0,8802.24,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+VARROC,Varroc Engineering Limited,VARROC.NS,87844339712.0,8784.43,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+TSFINV,TSF Investments Limited,TSFINV.NS,87702937600.0,8770.29,Mid Cap,Financial Services,Asset Management,2026-06-09
+SAREGAMA,Saregama India Limited,SAREGAMA.NS,87216791552.0,8721.68,Mid Cap,Communication Services,Entertainment,2026-06-09
+EQUITASBNK,Equitas Small Finance Bank Limited,EQUITASBNK.NS,86980050944.0,8698.01,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+PCJEWELLER,PC Jeweller Limited,PCJEWELLER.NS,86909280256.0,8690.93,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+V2RETAIL,V2 Retail Limited,V2RETAIL.NS,85974237184.0,8597.42,Mid Cap,Consumer Cyclical,Apparel Retail,2026-06-09
+LEMONTREE,Lemon Tree Hotels Limited,LEMONTREE.NS,85535375360.0,8553.54,Mid Cap,Consumer Cyclical,Lodging,2026-06-09
+TIPSMUSIC,Tips Music Limited,TIPSMUSIC.NS,85263671296.0,8526.37,Mid Cap,Communication Services,Entertainment,2026-06-09
+BATAINDIA,Bata India Limited,BATAINDIA.NS,85155913728.0,8515.59,Mid Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+TIMETECHNO,Time Technoplast Limited,TIMETECHNO.NS,85142233088.0,8514.22,Mid Cap,Consumer Cyclical,Packaging & Containers,2026-06-09
+EUREKAFORB,Eureka Forbes Limited,EUREKAFORB.NS,84739743744.0,8473.97,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+ORKLAINDIA,ORKLA INDIA LIMITED,ORKLAINDIA.NS,84625096704.0,8462.51,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+STARCEMENT,Star Cement Limited,STARCEMENT.NS,84449460224.0,8444.95,Mid Cap,Basic Materials,Building Materials,2026-06-09
+CELLO,Cello World Limited,CELLO.NS,84223459328.0,8422.35,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+ASKAUTOLTD,ASK AUTOMOTIVE LIMITED,ASKAUTOLTD.NS,84101029888.0,8410.1,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+AKUMS,AKUMS DRUGS AND PHARMA L,AKUMS.NS,84053032960.0,8405.3,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+TTML,Tata Teleservices (Maharashtra) Limited,TTML.NS,83905495040.0,8390.55,Mid Cap,Communication Services,Telecom Services,2026-06-09
+GMRP&UI,GMR Power And Urban Infra Limited,GMRP&UI.NS,83826614272.0,8382.66,Mid Cap,Energy,Thermal Coal,2026-06-09
+RELAXO,Relaxo Footwears Limited,RELAXO.NS,83257516032.0,8325.75,Mid Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+PARAS,Paras Defence and Space Technologies Limited,PARAS.NS,82319958016.0,8232.0,Mid Cap,Industrials,Aerospace & Defense,2026-06-09
+SUDEEPPHRM,SUDEEP PHARMA LIMITED,SUDEEPPHRM.NS,82260484096.0,8226.05,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+MAHSEAMLES,Maharashtra Seamless Limited,MAHSEAMLES.NS,81893646336.0,8189.36,Mid Cap,Basic Materials,Steel,2026-06-09
+MIDHANI,Mishra Dhatu Nigam Limited,MIDHANI.NS,81867579392.0,8186.76,Mid Cap,Basic Materials,Steel,2026-06-09
+CLEAN,Clean Science and Technology Limited,CLEAN.NS,81683431424.0,8168.34,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+INDIASHLTR,India Shelter Finance Corporation Limited,INDIASHLTR.NS,81278787584.0,8127.88,Mid Cap,Financial Services,Mortgage Finance,2026-06-09
+EMBDL,Embassy Developments Limited,EMBDL.NS,80635838464.0,8063.58,Mid Cap,Real Estate,Real Estate - Diversified,2026-06-09
+KRN,KRN HEAT EXCHANGE N REF L,KRN.NS,80513941504.0,8051.39,Mid Cap,Technology,Electronic Components,2026-06-09
+TRIVENI,Triveni Engineering & Industries Limited,TRIVENI.NS,80431472640.0,8043.15,Mid Cap,Consumer Defensive,Confectioners,2026-06-09
+BLUEJET,Blue Jet Healthcare Limited,BLUEJET.NS,80366526464.0,8036.65,Mid Cap,Healthcare,Biotechnology,2026-06-09
+YATHARTH,Yatharth Hospital & Trauma Care Services Limited,YATHARTH.NS,80292085760.0,8029.21,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+SKFINDIA,SKF India Limited,SKFINDIA.NS,79743434752.0,7974.34,Mid Cap,Industrials,Tools & Accessories,2026-06-09
+POWERMECH,Power Mech Projects Limited,POWERMECH.NS,79736291328.0,7973.63,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+KRBL,KRBL Limited,KRBL.NS,79390457856.0,7939.05,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+BLUESTONE,BLUESTONE JEWEL LFSTL LTD,BLUESTONE.NS,79227691008.0,7922.77,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+AXISCADES,AXISCADES Technologies Limited,AXISCADES.NS,79205457920.0,7920.55,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+SHARDACROP,Sharda Cropchem Limited,SHARDACROP.NS,78812110848.0,7881.21,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+SKYGOLD,Sky Gold and Diamonds Limited,SKYGOLD.NS,78613987328.0,7861.4,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+RHIM,RHI Magnesita India Limited,RHIM.NS,78346641408.0,7834.66,Mid Cap,Industrials,Metal Fabrication,2026-06-09
+KPIGREEN,KPI Green Energy Limited,KPIGREEN.NS,77823459328.0,7782.35,Mid Cap,Utilities,Utilities - Renewable,2026-06-09
+IMFA,Indian Metals and Ferro Alloys Limited,IMFA.NS,77801816064.0,7780.18,Mid Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+VIKRAMSOLR,VIKRAM SOLAR LIMITED,VIKRAMSOLR.NS,77500350464.0,7750.04,Mid Cap,Technology,Solar,2026-06-09
+SAFARI,Safari Industries (India) Limited,SAFARI.NS,77167992832.0,7716.8,Mid Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+RELIGARE,Religare Enterprises Limited,RELIGARE.NS,77091520512.0,7709.15,Mid Cap,Financial Services,Insurance - Life,2026-06-09
+NESCO,Nesco Limited,NESCO.NS,77019783168.0,7701.98,Mid Cap,Industrials,Conglomerates,2026-06-09
+PGIL,Pearl Global Industries Limited,PGIL.NS,76665634816.0,7666.56,Mid Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+SUPRIYA,Supriya Lifescience Limited,SUPRIYA.NS,75995881472.0,7599.59,Mid Cap,Healthcare,Biotechnology,2026-06-09
+PNGJL,P N GADGIL JEWELLERS LTD,PNGJL.NS,75067072512.0,7506.71,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+CERA,Cera Sanitaryware Limited,CERA.NS,74721181696.0,7472.12,Mid Cap,Industrials,Building Products & Equipment,2026-06-09
+SFL,Sheela Foam Limited,SFL.NS,74602242048.0,7460.22,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+GPPL,Gujarat Pipavav Port Limited,GPPL.NS,74473545728.0,7447.35,Mid Cap,Industrials,Marine Shipping,2026-06-09
+BIRLACORPN,Birla Corporation Limited,BIRLACORPN.NS,74233151488.0,7423.32,Mid Cap,Basic Materials,Building Materials,2026-06-09
+JSLL,JEENA SIKHO LIFECARE LTD,JSLL.NS,74089447424.0,7408.94,Mid Cap,Healthcare,Medical Care Facilities,2026-06-09
+JKLAKSHMI,JK Lakshmi Cement Limited,JKLAKSHMI.NS,73810067456.0,7381.01,Mid Cap,Basic Materials,Building Materials,2026-06-09
+WELENT,Welspun Enterprises Limited,WELENT.NS,73638297600.0,7363.83,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+JYOTHYLAB,Jyothy Labs Limited,JYOTHYLAB.NS,73619161088.0,7361.92,Mid Cap,Consumer Defensive,Household & Personal Products,2026-06-09
+REDTAPE,REDTAPE Limited,REDTAPE.NS,73363103744.0,7336.31,Mid Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+BORORENEW,Borosil Renewables Limited,BORORENEW.NS,72806973440.0,7280.7,Mid Cap,Technology,Solar,2026-06-09
+GAEL,Gujarat Ambuja Exports Limited,GAEL.NS,72786444288.0,7278.64,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+CAMPUS,Campus Activewear Limited,CAMPUS.NS,72761745408.0,7276.17,Mid Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+SONATSOFTW,Sonata Software Limited,SONATSOFTW.NS,72755429376.0,7275.54,Mid Cap,Technology,Information Technology Services,2026-06-09
+ABFRL,Aditya Birla Fashion and Retail Limited,ABFRL.NS,72726773760.0,7272.68,Mid Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Limited,GNFC.NS,71611547648.0,7161.15,Mid Cap,Basic Materials,Chemicals,2026-06-09
+DYNAMATECH,Dynamatic Technologies Limited,DYNAMATECH.NS,70033358848.0,7003.34,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+SUDARSCHEM,Sudarshan Chemical Industries Limited,SUDARSCHEM.NS,69534294016.0,6953.43,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+DBL,Dilip Buildcon Limited,DBL.NS,69510144000.0,6951.01,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+BALAMINES,Balaji Amines Limited,BALAMINES.NS,69500141568.0,6950.01,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+AVL,Aditya Vision Limited,AVL.NS,69340676096.0,6934.07,Mid Cap,Consumer Cyclical,Specialty Retail,2026-06-09
+INOXGREEN,Inox Green Energy Services Limited,INOXGREEN.NS,69297528832.0,6929.75,Mid Cap,Utilities,Utilities - Renewable,2026-06-09
+RCF,Rashtriya Chemicals and Fertilizers Limited,RCF.NS,68861714432.0,6886.17,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+GOKULAGRO,Gokul Agro Resources Limited,GOKULAGRO.NS,68259463168.0,6825.95,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+IXIGO,LE TRAVENUES TECHNOLOGY L,IXIGO.NS,68138475520.0,6813.85,Mid Cap,Consumer Cyclical,Travel Services,2026-06-09
+NEWGEN,Newgen Software Technologies Limited,NEWGEN.NS,68024762368.0,6802.48,Mid Cap,Technology,Software - Infrastructure,2026-06-09
+WESTLIFE,Westlife Foodworld Limited,WESTLIFE.NS,67643027456.0,6764.3,Mid Cap,Consumer Cyclical,Restaurants,2026-06-09
+EPL,EPL Limited,EPL.NS,67495735296.0,6749.57,Mid Cap,Consumer Cyclical,Packaging & Containers,2026-06-09
+TANLA,Tanla Platforms Limited,TANLA.NS,67203665920.0,6720.37,Mid Cap,Technology,Software - Application,2026-06-09
+PRICOLLTD,Pricol Limited,PRICOLLTD.NS,67156705280.0,6715.67,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+SPARC,Sun Pharma Advanced Research Company Limited,SPARC.NS,67078615040.0,6707.86,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+LOTUSDEV,SRI LOTUS DEVLPRS N RTY L,LOTUSDEV.NS,66407780352.0,6640.78,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+RAIN,Rain Industries Limited,RAIN.NS,66300456960.0,6630.05,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+PRAJIND,Praj Industries Limited,PRAJIND.NS,66080804864.0,6608.08,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+INDIAGLYCO,India Glycols Limited,INDIAGLYCO.NS,65964392448.0,6596.44,Mid Cap,Basic Materials,Chemicals,2026-06-09
+ASHAPURMIN,Ashapura Minechem Limited,ASHAPURMIN.NS,65282535424.0,6528.25,Mid Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+TRANSRAILL,TRANSRAIL LIGHTING LTD,TRANSRAILL.NS,65255141376.0,6525.51,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+ICIL,Indo Count Industries Limited,ICIL.NS,64734060544.0,6473.41,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+SHAKTIPUMP,Shakti Pumps (India) Limited,SHAKTIPUMP.NS,64598835200.0,6459.88,Mid Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+ACI,Archean Chemical Industries Limited,ACI.NS,64365031424.0,6436.5,Mid Cap,Basic Materials,Chemicals,2026-06-09
+GSFC,Gujarat State Fertilizers & Chemicals Limited,GSFC.NS,64346148864.0,6434.61,Mid Cap,Basic Materials,Agricultural Inputs,2026-06-09
+ETHOSLTD,Ethos Limited,ETHOSLTD.NS,64298733568.0,6429.87,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+JKPAPER,JK Paper Limited,JKPAPER.NS,63706349568.0,6370.63,Mid Cap,Basic Materials,Paper & Paper Products,2026-06-09
+LATENTVIEW,Latent View Analytics Limited,LATENTVIEW.NS,62460305408.0,6246.03,Mid Cap,Industrials,Consulting Services,2026-06-09
+SKIPPER,Skipper Limited,SKIPPER.NS,62351253504.0,6235.13,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+JAIBALAJI,Jai Balaji Industries Limited,JAIBALAJI.NS,61576974336.0,6157.7,Mid Cap,Basic Materials,Steel,2026-06-09
+HCC,Hindustan Construction Company Limited,HCC.NS,61216968704.0,6121.7,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+ARVINDFASN,Arvind Fashions Limited,ARVINDFASN.NS,60966723584.0,6096.67,Mid Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+ALOKINDS,Alok Industries Limited,ALOKINDS.NS,60625584128.0,6062.56,Mid Cap,Consumer Cyclical,Textile Manufacturing,2026-06-09
+CSBBANK,CSB Bank Limited,CSBBANK.NS,60528918528.0,6052.89,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+DBREALTY,Valor Estate Limited,DBREALTY.NS,60207153152.0,6020.72,Mid Cap,Real Estate,Real Estate - Development,2026-06-09
+FIEMIND,Fiem Industries Limited,FIEMIND.NS,60106207232.0,6010.62,Mid Cap,Consumer Cyclical,Auto Parts,2026-06-09
+SAATVIKGL,Saatvik Green Energy Limited,SAATVIKGL.NS,60050763776.0,6005.08,Mid Cap,Technology,Solar,2026-06-09
+PRSMJOHNSN,Prism Johnson Limited,PRSMJOHNSN.NS,59864199168.0,5986.42,Mid Cap,Basic Materials,Building Materials,2026-06-09
+MOIL,MOIL Limited,MOIL.NS,59122626560.0,5912.26,Mid Cap,Basic Materials,Other Industrial Metals & Mining,2026-06-09
+FEDFINA,Fedbank Financial Services Limited,FEDFINA.NS,58071744512.0,5807.17,Mid Cap,Financial Services,Credit Services,2026-06-09
+PICCADIL,Piccadily Agro Industries Limited,PICCADIL.NS,57934176256.0,5793.42,Mid Cap,Consumer Defensive,Beverages - Wineries & Distilleries,2026-06-09
+SAPPHIRE,Sapphire Foods India Limited,SAPPHIRE.NS,56703410176.0,5670.34,Mid Cap,Consumer Cyclical,Restaurants,2026-06-09
+DCBBANK,DCB Bank Limited,DCBBANK.NS,56639537152.0,5663.95,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+AARTIPHARM,Aarti Pharmalabs Limited,AARTIPHARM.NS,56212336640.0,5621.23,Mid Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+SENCO,Senco Gold Limited,SENCO.NS,56204849152.0,5620.48,Mid Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+PTC,PTC India Limited,PTC.NS,55593320448.0,5559.33,Mid Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+TVSSCS,TVS Supply Chain Solutions Limited,TVSSCS.NS,55535742976.0,5553.57,Mid Cap,Industrials,Integrated Freight & Logistics,2026-06-09
+SMLMAH,SML MAHINDRA LIMITED,SMLMAH.NS,54869245952.0,5486.92,Mid Cap,Consumer Cyclical,Auto Manufacturers,2026-06-09
+SURYAROSNI,Surya Roshni Limited,SURYAROSNI.NS,54403022848.0,5440.3,Mid Cap,Basic Materials,Steel,2026-06-09
+AHLUCONT,Ahluwalia Contracts (India) Limited,AHLUCONT.NS,53251760128.0,5325.18,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+BALUFORGE,Balu Forge Industries Limited,BALUFORGE.NS,53189505024.0,5318.95,Mid Cap,Industrials,Metal Fabrication,2026-06-09
+BECTORFOOD,Mrs. Bectors Food Specialities Limited,BECTORFOOD.NS,53044903936.0,5304.49,Mid Cap,Consumer Defensive,Packaged Foods,2026-06-09
+VMART,V-Mart Retail Limited,VMART.NS,53014765568.0,5301.48,Mid Cap,Consumer Cyclical,Department Stores,2026-06-09
+HAPPSTMNDS,Happiest Minds Technologies Limited,HAPPSTMNDS.NS,52877172736.0,5287.72,Mid Cap,Technology,Information Technology Services,2026-06-09
+NEOGEN,Neogen Chemicals Limited,NEOGEN.NS,52356497408.0,5235.65,Mid Cap,Basic Materials,Specialty Chemicals,2026-06-09
+THOMASCOOK,Thomas Cook (India) Limited,THOMASCOOK.NS,52308406272.0,5230.84,Mid Cap,Consumer Cyclical,Travel Services,2026-06-09
+PNCINFRA,PNC Infratech Limited,PNCINFRA.NS,52090277888.0,5209.03,Mid Cap,Industrials,Engineering & Construction,2026-06-09
+IFBIND,IFB Industries Limited,IFBIND.NS,51864059904.0,5186.41,Mid Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+SMARTWORKS,SMARTWORKS COWORKING SP L,SMARTWORKS.NS,51823566848.0,5182.36,Mid Cap,Real Estate,Real Estate Services,2026-06-09
+RTNPOWER,RattanIndia Power Limited,RTNPOWER.NS,51230810112.0,5123.08,Mid Cap,Utilities,Utilities - Independent Power Producers,2026-06-09
+RTNINDIA,RattanIndia Enterprises Limited,RTNINDIA.NS,51051413504.0,5105.14,Mid Cap,Consumer Cyclical,Internet Retail,2026-06-09
+JSFB,Jana Small Finance Bank Limited,JSFB.NS,50192416768.0,5019.24,Mid Cap,Financial Services,Banks - Regional,2026-06-09
+MASTEK,Mastek Limited,MASTEK.NS,50128265216.0,5012.83,Mid Cap,Technology,Information Technology Services,2026-06-09
+ENTERO,Entero Healthcare Solutions Limited,ENTERO.NS,50093772800.0,5009.38,Mid Cap,Healthcare,Medical Distribution,2026-06-09
+NETWORK18,Network18 Media & Investments Limited,NETWORK18.NS,49361825792.0,4936.18,Small Cap,Communication Services,Entertainment,2026-06-09
+PURVA,Puravankara Limited,PURVA.NS,49272590336.0,4927.26,Small Cap,Real Estate,Real Estate - Development,2026-06-09
+RBA,Restaurant Brands Asia Limited,RBA.NS,48947605504.0,4894.76,Small Cap,Consumer Cyclical,Restaurants,2026-06-09
+GOKEX,Gokaldas Exports Limited,GOKEX.NS,48730628096.0,4873.06,Small Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+CMSINFO,CMS Info Systems Limited,CMSINFO.NS,48288186368.0,4828.82,Small Cap,Industrials,Specialty Business Services,2026-06-09
+CCAVENUE,AvenuesAI Limited,CCAVENUE.NS,48142499840.0,4814.25,Small Cap,Technology,Software - Infrastructure,2026-06-09
+CRAMC,CANARA ROBECO AMC LIMITED,CRAMC.NS,48059600896.0,4805.96,Small Cap,Financial Services,Asset Management,2026-06-09
+JAMNAAUTO,Jamna Auto Industries Limited,JAMNAAUTO.NS,47214800896.0,4721.48,Small Cap,Consumer Cyclical,Auto Parts,2026-06-09
+RENUKA,Shree Renuka Sugars Limited,RENUKA.NS,46933196800.0,4693.32,Small Cap,Consumer Defensive,Confectioners,2026-06-09
+SWSOLAR,Sterling and Wilson Renewable Energy Limited,SWSOLAR.NS,46875045888.0,4687.5,Small Cap,Technology,Solar,2026-06-09
+RAYMONDLSL,Raymond Lifestyle Limited,RAYMONDLSL.NS,46672105472.0,4667.21,Small Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+SUBROS,Subros Limited,SUBROS.NS,46535921664.0,4653.59,Small Cap,Consumer Cyclical,Auto Parts,2026-06-09
+DATAMATICS,Datamatics Global Services Limited,DATAMATICS.NS,46498996224.0,4649.9,Small Cap,Technology,Information Technology Services,2026-06-09
+MAPMYINDIA,C. E. Info Systems Limited,MAPMYINDIA.NS,46221070336.0,4622.11,Small Cap,Technology,Software - Infrastructure,2026-06-09
+WEBELSOLAR,Websol Energy System Limited,WEBELSOLAR.NS,46186307584.0,4618.63,Small Cap,Technology,Solar,2026-06-09
+OSWALPUMPS,OSWAL PUMPS LIMITED,OSWALPUMPS.NS,45875568640.0,4587.56,Small Cap,Industrials,Electrical Equipment & Parts,2026-06-09
+ELECTCAST,Electrosteel Castings Limited,ELECTCAST.NS,45560201216.0,4556.02,Small Cap,Industrials,Building Products & Equipment,2026-06-09
+VIPIND,V.I.P. Industries Limited,VIPIND.NS,45200896000.0,4520.09,Small Cap,Consumer Cyclical,Footwear & Accessories,2026-06-09
+REFEX,Refex Industries Limited,REFEX.NS,44745777152.0,4474.58,Small Cap,Energy,Thermal Coal,2026-06-09
+INDIGOPNTS,Indigo Paints Limited,INDIGOPNTS.NS,44688781312.0,4468.88,Small Cap,Basic Materials,Specialty Chemicals,2026-06-09
+GREAVESCOT,Greaves Cotton Limited,GREAVESCOT.NS,44388896768.0,4438.89,Small Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+RALLIS,Rallis India Limited,RALLIS.NS,44235841536.0,4423.58,Small Cap,Basic Materials,Agricultural Inputs,2026-06-09
+JUSTDIAL,Just Dial Limited,JUSTDIAL.NS,44085161984.0,4408.52,Small Cap,Communication Services,Internet Content & Information,2026-06-09
+KSCL,Kaveri Seed Company Limited,KSCL.NS,43913011200.0,4391.3,Small Cap,Basic Materials,Agricultural Inputs,2026-06-09
+STYL,SESHAASAI TECHNOLOGIES L,STYL.NS,42935177216.0,4293.52,Small Cap,Technology,Software - Infrastructure,2026-06-09
+LXCHEM,Laxmi Organic Industries Limited,LXCHEM.NS,42906804224.0,4290.68,Small Cap,Basic Materials,Specialty Chemicals,2026-06-09
+TEXRAIL,Texmaco Rail & Engineering Limited,TEXRAIL.NS,42671955968.0,4267.2,Small Cap,Industrials,Railroads,2026-06-09
+AURIONPRO,Aurionpro Solutions Limited,AURIONPRO.NS,41843572736.0,4184.36,Small Cap,Technology,Software - Application,2026-06-09
+IONEXCHANG,Ion Exchange (India) Limited,IONEXCHANG.NS,41716449280.0,4171.64,Small Cap,Industrials,Pollution & Treatment Controls,2026-06-09
+ADVENZYMES,Advanced Enzyme Technologies Limited,ADVENZYMES.NS,41565548544.0,4156.55,Small Cap,Basic Materials,Specialty Chemicals,2026-06-09
+EMIL,Electronics Mart India Limited,EMIL.NS,41071931392.0,4107.19,Small Cap,Consumer Cyclical,Specialty Retail,2026-06-09
+SUNTECK,Sunteck Realty Limited,SUNTECK.NS,40741322752.0,4074.13,Small Cap,Real Estate,Real Estate - Development,2026-06-09
+HEMIPROP,Hemisphere Properties India Limited,HEMIPROP.NS,40037216256.0,4003.72,Small Cap,Real Estate,Real Estate - Diversified,2026-06-09
+CAPILLARY,CAPILLARY TECHNO INDIA L,CAPILLARY.NS,39970435072.0,3997.04,Small Cap,Technology,Software - Infrastructure,2026-06-09
+GHCL,GHCL Limited,GHCL.NS,39443181568.0,3944.32,Small Cap,Basic Materials,Chemicals,2026-06-09
+ANUP,The Anup Engineering Limited,ANUP.NS,38260101120.0,3826.01,Small Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+STYRENIX,Styrenix Performance Materials Limited,STYRENIX.NS,38134710272.0,3813.47,Small Cap,Basic Materials,Chemicals,2026-06-09
+OPTIEMUS,Optiemus Infracom Limited,OPTIEMUS.NS,38029750272.0,3802.98,Small Cap,Technology,Electronics & Computer Distribution,2026-06-09
+VAIBHAVGBL,Vaibhav Global Limited,VAIBHAVGBL.NS,37962977280.0,3796.3,Small Cap,Consumer Cyclical,Luxury Goods,2026-06-09
+ELLEN,ELLENBARRIE INDUS GASES L,ELLEN.NS,37869395968.0,3786.94,Small Cap,Basic Materials,Chemicals,2026-06-09
+WAKEFIT,WAKEFIT INNOVATIONS LTD,WAKEFIT.NS,37566390272.0,3756.64,Small Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+CRIZAC,CRIZAC LIMITED,CRIZAC.NS,37353512960.0,3735.35,Small Cap,Consumer Defensive,Education & Training Services,2026-06-09
+HGINFRA,H.G. Infra Engineering Limited,HGINFRA.NS,37320237056.0,3732.02,Small Cap,Industrials,Engineering & Construction,2026-06-09
+TARC,TARC Limited,TARC.NS,36869332992.0,3686.93,Small Cap,Real Estate,Real Estate - Development,2026-06-09
+MSTCLTD,MSTC Limited,MSTCLTD.NS,36291198976.0,3629.12,Small Cap,Industrials,Conglomerates,2026-06-09
+NFL,National Fertilizers Limited,NFL.NS,36278272000.0,3627.83,Small Cap,Basic Materials,Agricultural Inputs,2026-06-09
+QUESS,Quess Corp Limited,QUESS.NS,36193464320.0,3619.35,Small Cap,Industrials,Staffing & Employment Services,2026-06-09
+SAMHI,SAMHI Hotels Limited,SAMHI.NS,35979161600.0,3597.92,Small Cap,Consumer Cyclical,Lodging,2026-06-09
+KNRCON,KNR Constructions Limited,KNRCON.NS,35809599488.0,3580.96,Small Cap,Industrials,Engineering & Construction,2026-06-09
+BAJAJELEC,Bajaj Electricals Limited,BAJAJELEC.NS,35546742784.0,3554.67,Small Cap,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2026-06-09
+GMMPFAUDLR,GMM Pfaudler Limited,GMMPFAUDLR.NS,34853089280.0,3485.31,Small Cap,Industrials,Specialty Industrial Machinery,2026-06-09
+AARTIDRUGS,Aarti Drugs Limited,AARTIDRUGS.NS,33970694144.0,3397.07,Small Cap,Healthcare,Drug Manufacturers - Specialty & Generic,2026-06-09
+ASHOKA,Ashoka Buildcon Limited,ASHOKA.NS,33473437696.0,3347.34,Small Cap,Industrials,Engineering & Construction,2026-06-09
+ROUTE,Route Mobile Limited,ROUTE.NS,32541091840.0,3254.11,Small Cap,Communication Services,Telecom Services,2026-06-09
+EIEL,ENVIRO INFRA ENGINEERS L,EIEL.NS,32402839552.0,3240.28,Small Cap,Industrials,Engineering & Construction,2026-06-09
+KITEX,Kitex Garments Limited,KITEX.NS,30316021760.0,3031.6,Small Cap,Consumer Cyclical,Apparel Manufacturing,2026-06-09
+HERITGFOOD,Heritage Foods Limited,HERITGFOOD.NS,29467369472.0,2946.74,Small Cap,Consumer Defensive,Packaged Foods,2026-06-09
+SHAREINDIA,Share India Securities Limited,SHAREINDIA.NS,29401399296.0,2940.14,Small Cap,Financial Services,Capital Markets,2026-06-09
+ORIENTCEM,Orient Cement Limited,ORIENTCEM.NS,27350816768.0,2735.08,Small Cap,Basic Materials,Building Materials,2026-06-09
+ZAGGLE,Zaggle Prepaid Ocean Services Limited,ZAGGLE.NS,26672586752.0,2667.26,Small Cap,Technology,Software - Infrastructure,2026-06-09
+AWFIS,AWFIS SPACE SOLUTIONS LTD,AWFIS.NS,21071779840.0,2107.18,Small Cap,Industrials,Rental & Leasing Services,2026-06-09
+CORONA,CORONA REMEDIES LIMITED,CORONA.NS,,,Small Cap,Healthcare,Drug Manufacturers - General,2026-06-09
+TENNIND,TENNECO CLEAN AIR INDIA L,TENNIND.NS,,,Small Cap,Consumer Cyclical,Auto Parts,2026-06-09
